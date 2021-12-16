@@ -5,7 +5,7 @@ title: IEEE International Conference on eScience
 # Configure the variable below to customize the eScience website #
 ###################################################################
 
-baseurl: /_template # replace '_template' below by the conference year
+baseurl: /2022 # replace '_template' below by the conference year
 
 ###################################################################
 # Do NOT change the settings below

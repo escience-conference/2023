@@ -1,76 +1,94 @@
 roles:
   - General Chair
   - Program Chair
-  - Publication Chair
+  - Track Chair
   - Publicity and Web Chair
+  - Publicity Regional Chair
   - Workshop Chair
   - Tutorial Chair
   - Poster Chair
   - Local Chair
   - Industry Chair
   - Finance Chair
+  - IEEE Liaison
 
 organizers:
-  - name: Thomas Fahringer
+  - name: Valerio Pascucci
     role: General Chair
-    institution: University of Innsbruck, Austria
+    institution: University of Utah, USA
 
-  - name: Erwin Laure
+  - name: Manish Parashar
+    role: General Chair
+    institution: University of Utah, USA
+
+  - name: Pania Newell
     role: Program Chair
-    institution: Max-Planck Computing and Data Facility, Garching, Germany
+    institution: University of Utah, USA
 
-  - name: Sinead Ryan
+  - name: Michela Taufer
     role: Program Chair
-    institution: Trinity College Dublin, Ireland
+    institution: University of Tennessee, Knoxville, USA
 
-  - name: Erwin Laure
-    role: Publication Chair
-    institution: Max-Planck Computing and Data Facility, Garching, Germany
+  - name: David Abramson
+    role: Track Chair
+    institution: "Translational Computer/Computational Research<br/>University of Queensland, Australia"
 
-  - name: Philipp Gschwandtner
-    role: Publicity and Web Chair
-    institution: University of Innsbruck, Austria
+  - name: Rosa Badia
+    role: Track Chair
+    institution: "Translational Computer/Computational Research<br/>Barcelona Supercomputing Center, Spain"
+
+  - name: Claudia Bauzer Medeiros
+    role: Track Chair
+    institution: "Data Democratization<br/>Institute of Computing (IC) - University of Campinas, Brazil"
+
+  - name: Ian Foster
+    role: Track Chair
+    institution: "Data Democratization<br/>Argonne National Laboratory & University of Chicago, USA"
+
+  - name: Valerie Taylor
+    role: Track Chair
+    institution: "AI for Science<br/>Argonne National Laboratory, USA"
+
+  - name: Trilce Estrada 
+    role: Track Chair
+    institution: "AI for Science<br/>University of New Mexico, USA"
 
   - name: Rafael Ferreira da Silva
     role: Publicity and Web Chair
     institution: University of Southern California, Los Angeles, CA, USA
 
-  - name: Flavio Vella
+  - name: Steve Petruzza
+    role: Publicity and Web Chair
+    institution: Utah State University, USA
+
+  - name: Marta Mattoso
+    role: Publicity Regional Chair
+    institution: "South and Central America<br/>Federal University of Rio de Janeiro, Brazil"
+
+  - name: Minh Dinh
+    role: Publicity Regional Chair
+    institution: "Asia<br/>RMIT University, Vietnam"
+
+  - name: Hoang Nguyen
+    role: Publicity Regional Chair
+    institution: "Australia / New Zealand<br/>University of Queensland, Australia"
+
+  - name: Sandra Gesing
     role: Workshop Chair
-    institution: Free University of Bozen-Bolzano, Italy
+    institution: University of Illinois, USA
 
-  - name: Michela Taufer
+  - name: Timo Bremer
     role: Workshop Chair
-    institution: University of Tennessee, Knoxville, USA
+    institution: Lawrence Livermore National Lab, USA
 
-  - name: Peter Thoman
+  - name: Giorgis Georgakoudis
     role: Tutorial Chair
-    institution: University of Innsbruck, Austria
+    institution: Lawrence Livermore National Lab, USA
 
-  - name: Kento Sato
+  - name: Philipp Gschwantner
     role: Tutorial Chair
-    institution: RIKEN R-CCS, Kobe, Japan
+    institution: University of Innsbruck, Austria 
 
-  - name: Carsten Trinitis
-    role: Poster Chair
-    institution: Technical University Munich, Germany
-
-  - name: Philipp Gschwandtner
-    role: Local Chair
-    institution: University of Innsbruck, Austria
-
-  - name: Peter Thoman
-    role: Local Chair
-    institution: University of Innsbruck, Austria
-
-  - name: Sai Narasimhamurthy
+  - name: Daniel S. Katz
     role: Industry Chair
-    institution: Seagate Technology, Maidenhead, UK
-
-  - name: Manuela Resch
-    role: Finance Chair
-    institution: University of Innsbruck, Austria
-
-  - name: Silvia Bosetti-Haid
-    role: Finance Chair
-    institution:  University of Innsbruck, Austria
+    institution: University of Illinois Urbana-Champaign, USA
