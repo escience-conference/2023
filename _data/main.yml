@@ -1,6 +1,8 @@
 edition: 18th # conference edition
 
-dates: September/October 2022 # conference dates
+# logo: escience-logo.png # conference logo (for menu in header bar)
+
+dates: September/October, 2022 # conference dates
 
 location: Salt Lake City, Utah, USA # conference location
 
