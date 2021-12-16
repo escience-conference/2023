@@ -4,9 +4,3 @@
 - name: IEEE Computer Society Technical COmmittee on Parallel Processing
   image: TCPP.png
   link: https://tc.computer.org/tcpp/
-
-- name: Universitat Innsbruck
-  image: uibk.png
-
-- name: FZHPC
-  image: fz_hpc_.png
