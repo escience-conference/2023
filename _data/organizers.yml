@@ -16,18 +16,22 @@ organizers:
   - name: Valerio Pascucci
     role: General Chair
     institution: University of Utah, USA
+    photo: pascucci.jpg
 
   - name: Manish Parashar
     role: General Chair
     institution: University of Utah, USA
+    photo: parashar.jpg
 
   - name: Pania Newell
     role: Program Chair
     institution: University of Utah, USA
+    photo: newell.jpg
 
   - name: Michela Taufer
     role: Program Chair
     institution: University of Tennessee, Knoxville, USA
+    photo: taufer.jpg
 
   - name: David Abramson
     role: Track Chair
@@ -36,6 +40,7 @@ organizers:
   - name: Rosa Badia
     role: Track Chair
     institution: "Translational Computer/Computational Research<br/>Barcelona Supercomputing Center, Spain"
+    photo: badia.jpg
 
   - name: Claudia Bauzer Medeiros
     role: Track Chair
@@ -56,14 +61,17 @@ organizers:
   - name: Rafael Ferreira da Silva
     role: Publicity and Web Chair
     institution: University of Southern California, Los Angeles, CA, USA
+    photo: ferreiradasilva.jpg
 
   - name: Steve Petruzza
     role: Publicity and Web Chair
     institution: Utah State University, USA
+    photo: petruzza.jpg
 
   - name: Marta Mattoso
     role: Publicity Regional Chair
     institution: "South and Central America<br/>Federal University of Rio de Janeiro, Brazil"
+    photo: mattoso.jpg
 
   - name: Minh Dinh
     role: Publicity Regional Chair
@@ -92,3 +100,4 @@ organizers:
   - name: Daniel S. Katz
     role: Industry Chair
     institution: University of Illinois Urbana-Champaign, USA
+    photo: katz.jpg
