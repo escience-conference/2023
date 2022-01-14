@@ -3,7 +3,6 @@ roles:
   - Program Chair
   - Track Chair
   - Publicity and Web Chair
-  - Publicity Regional Chair
   - Workshop Chair
   - Tutorial Chair
   - Poster Chair
@@ -68,20 +67,7 @@ organizers:
     institution: Utah State University, USA
     photo: petruzza.jpg
 
-  - name: Marta Mattoso
-    role: Publicity Regional Chair
-    institution: "South and Central America<br/>Federal University of Rio de Janeiro, Brazil"
-    photo: mattoso.jpg
-
-  - name: Minh Dinh
-    role: Publicity Regional Chair
-    institution: "Asia<br/>RMIT University, Vietnam"
-
-  - name: Hoang Nguyen
-    role: Publicity Regional Chair
-    institution: "Australia / New Zealand<br/>University of Queensland, Australia"
-
-  - name: Sandra Gesing
+   - name: Sandra Gesing
     role: Workshop Chair
     institution: University of Illinois, USA
 
