@@ -7,7 +7,6 @@ roles:
   - Tutorial Chair
   - Poster Chair
   - Local Chair
-  - Industry Chair
   - Finance Chair
   - IEEE Liaison
 
@@ -84,6 +83,6 @@ organizers:
     institution: University of Innsbruck, Austria 
 
   - name: Daniel S. Katz
-    role: Industry Chair
+    role: Poster Chair
     institution: University of Illinois Urbana-Champaign, USA
     photo: katz.jpg
