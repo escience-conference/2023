@@ -1,4 +1,4 @@
-| Submission Link         | [https://easychair.org/conferences/?conf=escience2021](https://easychair.org/conferences/?conf=escience2021) |
+| Submission Link         | [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/) |
 | Conference Dates        | {{ site.data.main.dates }} |
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
