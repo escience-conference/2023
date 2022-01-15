@@ -38,5 +38,5 @@ The important dates of the conference are as follows:
 - Conference: October 11-14, 2022 
 
 ## Contact information:
-Michela Taufer, University of Tennessee Knoxville <taufer@gmail.com>
-Pania Newell, University of Utah <pania.newell@utah.edu> 
+- Michela Taufer, University of Tennessee Knoxville <taufer@gmail.com>
+- Pania Newell, University of Utah <pania.newell@utah.edu> 
