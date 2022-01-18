@@ -12,7 +12,7 @@ Workshops play a crucial role in the conference by providing an opportunity for 
  
 eScience 2022  invites authors of workshop proposals to consider a diverse group of organizers, paper reviewers, and keynote speakers in terms of race/ethnicity, gender, and geographic areas.
  
-eScience 2022 accepts two types of workshop proposals: (i) workshops with peer-reviewed papers and proceedings, and (ii) workshops with invited talks and no proceedings.
+eScience 2022 accepts two types of workshop proposals: 1) workshops with peer-reviewed papers and proceedings, and 2) workshops with invited talks and no proceedings.
  
 ## Workshops with peer-reviewed papers and proceedings:
  
