@@ -25,7 +25,7 @@ Authors are invited to submit a 2-page paper for a poster presentation using the
 Contributions should be submitted in PDF format to:
 [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/)
  
-Authors are invited to submit abstracts (about 300 words). Contributions should be submitted in PDF format to: https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/)
+Authors are invited to submit abstracts (about 300 words). Contributions should be submitted in PDF format to: [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/)
 
 ## Key Dates
  
