@@ -64,3 +64,4 @@ Workshops and tutorials will be held on Tuesday, October 11, 2022. Please refer 
 ## Contact information:
 Workshop Chairs:
 - Sandra Gesing, Discovery Partners Institute, University of Illinois, USA
+- Timo Bremer, Lawrence Livermore National Laboratory, USA
