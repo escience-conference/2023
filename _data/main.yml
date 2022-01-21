@@ -15,7 +15,7 @@ contents:
     papers: true
     workshops: true
     tutorials: true
-    posters: false
+    posters: true
   program:
     timetable: false
     keynotes: false
