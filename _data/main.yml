@@ -1,6 +1,8 @@
 edition: 18th # conference edition
 
-# logo: escience-logo.png # conference logo (for menu in header bar)
+theme: International Conference
+
+# logo: escience-logo.png # conference logo (for menu in header bar / replaces theme)
 
 dates: October 11-14, 2022 # conference dates
 
