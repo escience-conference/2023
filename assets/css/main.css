@@ -3673,7 +3673,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .navbar-default {
-	background-color: #425894;
+	background-color: #c42026; //#425894;
 	border-color: #cccccc;
 	border-bottom: none;
 }
