@@ -1,4 +1,4 @@
-| Submission email        | Coming soon |
+| Submission Email        | workshops@escience-conference.org |
 | Conference Dates        | {{ site.data.main.dates }} |
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
@@ -26,15 +26,15 @@ The proceedings of the workshops will be included in the eScience 2022 proceedin
 - The workshop proceedings must have at least 4 papers (for a half-day workshop) or 6 papers (for a full-day workshop), at a length of at least 6 pages and no longer than 10 pages (including figure, tables, and citations) in the IEEE conference format.
 - For each paper selected for publication, at least one of the authors must be registered to eScience 2022 to present the paper in person.
 
-Workshop proposals should be submitted per email to Coming Soon
+Workshop proposals should be submitted per email to workshops@escience-conference.org
 
 A proposal should be submitted as a single PDF file (up to 5 pages). The proposal should include this information:
-- Workshop name and acronym
-- Workshop description (including its focus and goals) (max. 500 words)
+- Workshop name and acronym.
+- Workshop description (including its focus and goals) (max. 500 words).
 - Workshop length (half-day, e.g. 3 hours plus breaks, or full-day, e.g., 6 hours plus breaks)
-- Names and affiliations of the organizers and tentative composition of the committees (we invite the authors of the proposal to consider a diverse group of organizers and committee members in terms of e.g., race/ethnicity, gender, geographic areas)
-- Expected number of submissions/accepted papers
-- Prior history of this workshop, if any
+- Names and affiliations of the organizers and tentative composition of the committees (we invite the authors of the proposal to consider a diverse group of organizers and committee members in terms of e.g., race/ethnicity, gender, geographic areas).
+- Expected number of submissions/accepted papers.
+- Prior history of this workshop, if any.
 
 ## Workshops with invited talks and no proceedings:
  
@@ -42,7 +42,7 @@ Workshop organizers are responsible for inviting the speakers, establishing a pr
  
 Each speaker must be registered to eScience 2022 to present in a session.
  
-Workshop proposals should be submitted per email to Coming Soon
+Workshop proposals should be submitted via email to workshops@escience-conference.org
 
 A proposal should be submitted as a single PDF file (up to 5 pages). The proposal should include this information:
 - Workshop name and acronym
@@ -62,6 +62,6 @@ Workshops and tutorials will be held on Tuesday, October 11, 2022. Please refer 
 - Workshops: Tuesday, October 11, 2022
 
 ## Contact information:
-Workshop Chairs:
+Workshop Chairs (contact: workshops@escience-conference.org):
 - Sandra Gesing, Discovery Partners Institute, University of Illinois, USA
 - Timo Bremer, Lawrence Livermore National Laboratory, USA
