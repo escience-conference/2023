@@ -1,4 +1,4 @@
-| Submission Link         | Coming soon |
+| Submission Email        | tutorials@escience-conference.org |
 | Conference Dates        | {{ site.data.main.dates }} |
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
@@ -13,7 +13,7 @@ We encourage all submissions that fall in the area of the conference, and partic
 
 ## Tutorial Submission Guidelines
 Tutorial proposals should be submitted per email as a single pdf file; the file should include (1) a cover sheet and (2) an extended abstract.
-Submission email: Coming Soon
+Submission email: tutorials@escience-conference.org
 
 ## Requirements for the cover sheet
 The cover sheet should include the following elements:
