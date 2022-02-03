@@ -37,6 +37,8 @@ The important dates of the conference are as follows:
 - All Camera-ready Submissions due: Monday, August 15, 2022
 - Conference: October 11-14, 2022 
 
-## Contact information:
+## Contact information
+
+PC Chairs (Contact: tech-program@escience-conference.org):
 - Michela Taufer, University of Tennessee Knoxville <taufer@gmail.com>
 - Pania Newell, University of Utah <pania.newell@utah.edu> 
