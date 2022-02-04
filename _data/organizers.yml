@@ -34,7 +34,7 @@ organizers:
   - name: David Abramson
     role: Track Chair
     institution: "Translational Computer / Computational Research<br/>University of Queensland, Australia"
-    photo: abramson.jpg
+    photo: abramson.png
 
   - name: Rosa Badia
     role: Track Chair
@@ -49,6 +49,7 @@ organizers:
   - name: Trilce Estrada 
     role: Track Chair
     institution: "AI for Science<br/>University of New Mexico, USA"
+    photo: estrada.jpg
 
   - name: Ian Foster
     role: Track Chair
@@ -59,11 +60,6 @@ organizers:
     role: Track Chair
     institution: "AI for Science<br/>Argonne National Laboratory, USA"
     photo: taylor.jpg
-
-  - name: Trilce Estrada 
-    role: Track Chair
-    institution: "AI for Science<br/>University of New Mexico, USA"
-    photo: estrada.jpg
 
   - name: Rafael Ferreira da Silva
     role: Publicity and Web Chair
