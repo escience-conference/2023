@@ -1,8 +1,8 @@
 /* Themed colors */
 
 :root {
-	--primary-accent: #667ED3;
-	--navbar-border-top: #667ED3;
+	--primary-accent: #91161a;
+	--navbar-border-top: #91161a;
 	--button-border: #2a7d8c;
 	--link-focus: #267280;
 	--form-shadow: rgba(56, 167, 187, 0.6);
@@ -3673,7 +3673,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .navbar-default {
-	background-color: #c42026; //#425894;
+	background-color: #c42026;
 	border-color: #cccccc;
 	border-bottom: none;
 }
@@ -4447,11 +4447,16 @@ a.list-group-item.active>.badge,
 	max-height: 2em;
 }
 
+.organizers {
+	display: flex;
+	flex-wrap: wrap;
+}
+
 .organizer {
-	margin-left: 1em;
 	margin-right: 2em;
 	min-height: 14em;
 	max-width: 13em;
+	min-width: 13em;
 	text-align: center;
 	margin-bottom: 2em;
 	float: left;

@@ -33,18 +33,22 @@ organizers:
 
   - name: David Abramson
     role: Track Chair
-    institution: "Translational Computer/Computational Research<br/>University of Queensland, Australia"
+    institution: "Translational Computer / Computational Research<br/>University of Queensland, Australia"
     photo: abramson.jpg
 
   - name: Rosa Badia
     role: Track Chair
-    institution: "Translational Computer/Computational Research<br/>Barcelona Supercomputing Center, Spain"
+    institution: "Translational Computer / Computational Research<br/>Barcelona Supercomputing Center, Spain"
     photo: badia.jpg
 
   - name: Claudia Bauzer Medeiros
     role: Track Chair
     institution: "Data Democratization<br/>Institute of Computing (IC) - University of Campinas, Brazil"
     photo: medeiros.gif
+
+  - name: Trilce Estrada 
+    role: Track Chair
+    institution: "AI for Science<br/>University of New Mexico, USA"
 
   - name: Ian Foster
     role: Track Chair
@@ -63,7 +67,7 @@ organizers:
 
   - name: Rafael Ferreira da Silva
     role: Publicity and Web Chair
-    institution: University of Southern California, Los Angeles, CA, USA
+    institution: Oak Ridge National Laboratory, USA
     photo: ferreiradasilva.jpg
 
   - name: Steve Petruzza
