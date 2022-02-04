@@ -34,6 +34,7 @@ organizers:
   - name: David Abramson
     role: Track Chair
     institution: "Translational Computer/Computational Research<br/>University of Queensland, Australia"
+    photo: abramson.jpg
 
   - name: Rosa Badia
     role: Track Chair
@@ -43,18 +44,22 @@ organizers:
   - name: Claudia Bauzer Medeiros
     role: Track Chair
     institution: "Data Democratization<br/>Institute of Computing (IC) - University of Campinas, Brazil"
+    photo: medeiros.gif
 
   - name: Ian Foster
     role: Track Chair
     institution: "Data Democratization<br/>Argonne National Laboratory & University of Chicago, USA"
+    photo: foster.jpg
 
   - name: Valerie Taylor
     role: Track Chair
     institution: "AI for Science<br/>Argonne National Laboratory, USA"
+    photo: taylor.jpg
 
   - name: Trilce Estrada 
     role: Track Chair
     institution: "AI for Science<br/>University of New Mexico, USA"
+    photo: estrada.jpg
 
   - name: Rafael Ferreira da Silva
     role: Publicity and Web Chair
@@ -69,18 +74,22 @@ organizers:
   - name: Sandra Gesing
     role: Workshop Chair
     institution: University of Illinois, USA
+    photo: gesing.jpg
 
   - name: Timo Bremer
     role: Workshop Chair
     institution: Lawrence Livermore National Lab, USA
+    photo: bremer.jpg
 
   - name: Giorgis Georgakoudis
     role: Tutorial Chair
     institution: Lawrence Livermore National Lab, USA
+    photo: georgakoudis.jpg
 
   - name: Philipp Gschwantner
     role: Tutorial Chair
     institution: University of Innsbruck, Austria 
+    photo: gschwantner.jpg
 
   - name: Tanu Malik
     role: Poster Chair
