@@ -27,6 +27,7 @@ contents:
     panel: false
   meeting:
     registration: false
+    venue: false
     virtual: false
     quickstart: false
   committees:
