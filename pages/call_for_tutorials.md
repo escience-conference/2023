@@ -44,5 +44,5 @@ The extended abstract (up to 2 pages) should include the following sections:
 
 Tutorial Chairs (tutorials@escience-conference.org)
 - Giorgis Georgakoudis, LLNL, USA
-- Philipp Gschwantner, University of Innsbruck, Austria 
+- Philipp Gschwandtner, University of Innsbruck, Austria 
 
