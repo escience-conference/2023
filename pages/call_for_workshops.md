@@ -56,8 +56,8 @@ A proposal should be submitted as a single PDF file (up to 5 pages). The proposa
 Workshops and tutorials will be held on Tuesday, October 11, 2022. Please refer to the call for workshops and call for tutorials for further information.
 
 ## Key Dates:
-- Workshop Submissions due: Monday, February 14, 2022
-- Workshop Acceptance Notification: Monday, February 28, 2022
+- Workshop Submissions due: Monday, February 28, 2022
+- Workshop Acceptance Notification: Monday, March 14, 2022
 - All Camera-ready Submissions due: Monday, August 15, 2022
 - Workshops: Tuesday, October 11, 2022
 
