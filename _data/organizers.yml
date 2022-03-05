@@ -6,9 +6,7 @@ roles:
   - Workshop Chair
   - Tutorial Chair
   - Poster Chair
-  - Local Chair
-  - Finance Chair
-  - IEEE Liaison
+  - Proceedings Chair
 
 organizers:
   - name: Valerio Pascucci
@@ -100,3 +98,8 @@ organizers:
     role: Poster Chair
     institution: University of Illinois Urbana-Champaign, USA
     photo: katz.jpg
+
+  - name: Antonino Tumeo
+    role: Proceedings Chair
+    institution: Pacific Northwest National Laboratory, USA
+    photo: tumeo.jpg
