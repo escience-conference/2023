@@ -22,7 +22,7 @@ contents:
   program:
     timetable: false
     keynotes: false
-    workshops: false
+    workshops: true
     tutorials: false
     panel: false
   meeting:
