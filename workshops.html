@@ -4,7 +4,7 @@ permalink: /workshops
 title: Workshops
 ---
 
-{% assign wks = site.data.workshops %}
+{% assign wks = site.data.workshops | sort %}
 <div class="row">
     {% for wk in wks %}
     <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
