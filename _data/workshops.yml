@@ -12,6 +12,7 @@
 - name: 'Research Software Engineers in eScience: Stories of Application of RSE Expertise to Scientific Research (RSE-eScience-2022)'
   abstract: >
             Research Software Engineers (RSEs) bridge the gap between traditional software engineering and domain science research. These developers have a unique combination of skills to combine expertise in software development with a deep understanding of the scientific field for which software is being written. This workshop, organized by the US Research Software Engineer Association (US-RSE), will present RSE contributions to scientific research through a series of talks that explore scientific project needs, how access to RSEs made the project successful, and how this work can be applied to future scientific research efforts. The workshop will be of interest to existing RSEs, potential RSEs, domain scientists, and software developers who want to understand the lessons from both good and bad research software engineering experiences.
+  url: https://us-rse.org/rse-escience-2022/
 
 - name: '2nd Workshop on E-science ReseaRch leading tO negative Results (ERROR 2022)'
   abstract: > 
