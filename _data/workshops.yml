@@ -8,6 +8,7 @@
 - name: 'Software Engineering for eScience 2022 (SE4eScience22)'
   abstract: >
             The goal of this workshop is to provide a unique venue for the presentation of results and to facilitate interaction between software engineers and computational scientists, including those from the humanities, social sciences and engineering. To address this goal, we seek contributions from members of those communities that describe perspectives, research outcomes, and lessons learned (positive or negative) from the development of eScience software.
+  url: https://se4science.org/workshops/se4escience22/index.htm
 
 - name: 'Research Software Engineers in eScience: Stories of Application of RSE Expertise to Scientific Research (RSE-eScience-2022)'
   abstract: >
