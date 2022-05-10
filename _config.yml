@@ -11,7 +11,10 @@ baseurl: /2022 # replace '_template' below by the conference year
 # Do NOT change the settings below
 ###################################################################
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+  
 enable-mathjax: yes
 
 collections:
