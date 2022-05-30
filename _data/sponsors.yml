@@ -1,7 +1,7 @@
 - name: IEEE
   image: ieee.png
   
-- name: IEEE Computer Society Technical COmmittee on Parallel Processing
+- name: IEEE Computer Society Technical Committee on Parallel Processing
   image: TCPP.png
   link: https://tc.computer.org/tcpp/
 
