@@ -36,7 +36,7 @@ The extended abstract (up to 2 pages) should include the following sections:
 - Requirements for online conference system
  
 ## Key Dates
-- Tutorial Submissions Due: Monday, May 16, 2022
+- Tutorial Submissions Due: <s>Monday, May 16</s> Tuesday, May 31, 2022
 - Tutorial Acceptance: Monday, June 27, 2022
 - Tutorials at the Conference:  Tuesday, October 11, 2022.
  
