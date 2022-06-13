@@ -1,76 +1,39 @@
-This page provides information about poster submissions to the eScience 2021 conference. It is part of the general [Call for Papers](./call-for-papers) which you should read first, if you have not yet done so.
+The 18th IEEE International eScience Conference (eScience 2022), to be held in Salt Lake City on October 11-14, 2022, welcomes poster submissions for the technical program.
 
-Accepted two page posters proposals will be published in the main conference IEEE Proceedings through the IEEE Digital Library.
+eScience 2022 provides an interdisciplinary forum for researchers, developers, and users of eScience applications and enabling IT technologies. Its objective is to promote and encourage all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. The conference welcomes conceptualization, implementation, and experience contributions enabling and driving innovation in data- and compute-intensive research across all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities; encompassing artificial intelligence and machine learning methods; and targeting a broad spectrum of architectures, including HPC, cloud, and IoT.
 
-If you have any questions that neither this page nor the [Call for Papers](./call-for-papers) can answer, please [contact the poster chair](./organizers).
+The overarching theme of eScience 2022 conference is "Democratizing eScience". This year, the conference is emphasizing three key topics:
 
-## Poster presentation
+- Translational Research in Computer and Computational Sciences
+- Artificial Intelligence and Machine Learning for Science
+- Data and Data Democratization
 
-EScience poster sessions provide an opportunity to share ideas in a less formal setting than a paper presentation.
+The conference is soliciting poster submissions (**2 pages, IEEE format**) showcasing early-stage results and innovations.
 
-[Contact the poster chair](./organizers) for further information.
+All submissions will be single-blind peer reviewed. Accepted posters will be presented during a poster reception. Accepted poster papers will be published in the conference proceedings through the IEEE Digital Library. Shortened versions of rejected full papers can be re-submitted for a poster presentation. At least one author of each accepted poster must register as an author at the full registration rate. Each author registration can be applied to only one accepted submission.
 
-A poster is a single page document, typically combining text and images, that embodies a succinct description of work that has been done. Presenting a poster is a good way to discuss and receive feedback on a work in progress that has not been fully developed into a paper.
+## Poster Submission Guidelines
 
-Posters should **not** re-present previously published work.
+Authors are invited to submit a 2-page paper, including references, for a poster presentation using the same template as for papers. Contributions should be submitted in PDF format to: [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/)
 
-Poster proposal review will not be double blind. eScience 2021 will be held on-line, and we expect presenters will be able to present their poster via videoconference during a dedicated time slot. More information on that will be made available on the conference page. This would be similar to how poster presenters would interact with attendees in person – attendees can (virtually) attend your presentation and ask questions in real time. More details about presentation formats and materials will be provided once the virtual format of eScience has been finalized.
 
-Please note that **at least one contributor** is required to register, attend and present the poster.
+## Awards
 
-## Poster topic ideas
+eScience 2022 will host the following awards, which will be announced at the conference.
 
-The topic of a poster presentation is not limited. However, the topic should lend itself to presentation in poster format, ideally with additional details available in the form of web references. You might consider a poster presentation of materials that you would like to share, or preliminary research findings. Examples might include (but are not limited to):
-
-- life sciences
-- health research
-- digital humanities and social sciences
-- engineering
-- physics
-- chemistry
-- astronomy
-- climate science
-- environmental science
-- earth science
-
-## Formatting the poster
-
-Suggestions for poster design are given in [Research Posters 101](http://xrds.acm.org/article.cfm?aid=332138). Although these suggestions were published for student researchers, the ideas are also applicable to posters for this conference.
-
-## Formatting the poster proposal
-
-A poster proposal comprises two pages page, in PDF format, explaining what the poster is about. The full proposal contains an abstract and a body that describes your poster (as detailed below).
-
-Authors are invited to submit poster proposals (2 pages) for an oral presentation using the IEEE 8.5×11 manuscript guidelines: double-column text using single-spaced 10-point font on 8.5×11-inch pages. Templates are available from [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
-
-## Poster proposal contents
-
-Authors are invited to submit a 2-page paper for a poster presentation using the same template as for papers (see main conference page) including figures and references.
-
-A poster proposal will typically include the following information.
-
-- **Title:** a title for the poster.
-- **Proposer:** include name, affiliation, and email address. Correspondence related to the conference will be sent by email. Please check your spam filter if you haven’t received an expected notification because the bulk emails generated by the conference software are sometimes blocked.
-- **Abstract:** a description of the poster. The same abstract will also need to be copied into a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (in the PDF poster proposal and in the submission text box) are exactly the same.
-- **Content:** A description of the expected content of the poster, along with an indication of why the topic is significant: why conference attendees will find it interesting.
-
-## Important Dates for Posters
-
-Poster Submissions Due: ~~Tuesday June 15, 2021 Tuesday June 22, 2021~~ Friday June 25, 2021
-Notification of Poster Acceptance: ~~Tuesday June 22, 2021 Tuesday June 29, 2021~~ Friday July 02, 2021
-
-## Submitting a poster proposal
-
-Write your submission using the format specified above.
-
-Convert your paper into Adobe PDF format.
-
-Submit your poster [here](https://easychair.org/conferences/?conf=escience2021).
+- Best Poster Award
+- Best Student Poster Award
 
 ## Key Dates
 
-- Poster Submissions Due: ~~Tuesday June 15, 2021 Tuesday June 22, 2021~~ Friday June 25, 2021
-- Notification of Poster Acceptance: ~~Tuesday June 22, 2021 Tuesday June 29, 2021~~ Friday July 02, 2021
-- All Camera-ready Submissions Due: ~~Thursday July 22, 2021~~ Sunday, July 25, 2021
-- Conference Dates: September 20-23, 2021
+The important dates of the conference are as follows:
 
+- Poster Submissions due: Monday, July 11, 2022
+- Poster Acceptance Notification: Monday, July 25, 2022
+- All Camera-ready Submissions due: Monday, August 15, 2022
+- Conference: October 11-14, 2022
+
+### Contact information:
+
+- Tanu Malik, DePaul University, USA
+- Daniel S. Katz, University of Illinois at Urbana-Champaign, USA
