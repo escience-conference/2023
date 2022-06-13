@@ -1,3 +1,8 @@
+| Submission Link         | [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/) |
+| Conference Dates        | {{ site.data.main.dates }} |
+| Conference Address      | {{ site.data.main.location }} |
+| Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
+
 The 18th IEEE International eScience Conference (eScience 2022), to be held in Salt Lake City on October 11-14, 2022, welcomes poster submissions for the technical program.
 
 eScience 2022 provides an interdisciplinary forum for researchers, developers, and users of eScience applications and enabling IT technologies. Its objective is to promote and encourage all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. The conference welcomes conceptualization, implementation, and experience contributions enabling and driving innovation in data- and compute-intensive research across all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities; encompassing artificial intelligence and machine learning methods; and targeting a broad spectrum of architectures, including HPC, cloud, and IoT.
