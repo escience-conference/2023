@@ -33,7 +33,7 @@ eScience 2022 will host the following awards, which will be announced at the con
 
 The important dates of the conference are as follows:
 
-- Poster Submissions due: Monday, July 11, 2022
+- Poster Submissions due: Monday, July 18, 2022
 - Poster Acceptance Notification: Monday, July 25, 2022
 - All Camera-ready Submissions due: Monday, August 15, 2022
 - Conference: October 11-14, 2022
