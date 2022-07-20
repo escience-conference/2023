@@ -14,9 +14,9 @@ beliefs about the behavior of a system to decide on the next experiment(s) to ru
 **Prerequisite Knowledge:** Python
 
 ### Presenters:
-- [Sterling G. Baird](sterling.baird@utah.edu)
-- [Dr. Taylor D. Sparks](sparks@eng.utah.edu)
-- [Andrew Falkowski](AndrewRaineFalkowski@gmail.com)
+- [Sterling G. Baird](mailto:sterling.baird@utah.edu)
+- [Dr. Taylor D. Sparks](mailto:sparks@eng.utah.edu)
+- [Andrew Falkowski](mailto:AndrewRaineFalkowski@gmail.com)
 
 ### Biographies
 

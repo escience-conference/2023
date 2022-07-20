@@ -23,7 +23,7 @@ contents:
     timetable: false
     keynotes: true
     workshops: true
-    tutorials: false
+    tutorials: true
     panel: false
   meeting:
     registration: false
