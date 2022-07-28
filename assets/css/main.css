@@ -4678,9 +4678,13 @@ a.list-group-item.active>.badge,
 	font-size: 1rem;
 	font-weight: bold;
 	line-height: 1.4;
-	border-radius: 0.5rem;
+	border-radius: 1rem;
 	transition: opacity 0.3s ease;
 	margin-left: 0.2rem;
+	border-width: 2px;
+	border-style: solid;
+	border-color: white;
+	border-spacing: 1rem;
 }
 
 .timetable td>span {
