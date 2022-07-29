@@ -76,7 +76,7 @@
                     </li>
                     <li class="dropdown use-yamm yamm-fw">
                         <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
-                            aria-expanded=false>Meeting <span class=caret></span></a>
+                            aria-expanded=false>Travel <span class=caret></span></a>
                         <ul class=dropdown-menu>
                             <li>
                                 <div class=yamm-content>
@@ -86,6 +86,10 @@
                                         {% endif %}
                                         {% if site.data.main.contents.meeting.venue %}
                                         <li><a href="{{ site.baseurl }}/venue">Venue</a></li>
+                                        {% if site.data.main.contents.meeting.lodging %}
+                                        <li><a href="{{ site.baseurl }}/lodging">Lodging</a></li>
+                                        {% if site.data.main.contents.meeting.thingstodo %}
+                                        <li><a href="{{ site.baseurl }}/thingstodo">Things to do</a></li>
                                         {% endif %}
                                         {% if site.data.main.contents.meeting.virtual %}
                                         <li><a href="{{ site.baseurl }}/virtual">Virtual Conference</a></li>
