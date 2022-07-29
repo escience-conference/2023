@@ -28,6 +28,8 @@ contents:
   meeting:
     registration: false
     venue: true
+    lodging: true
+    thingstodo: true
     virtual: false
     quickstart: false
   committees:
