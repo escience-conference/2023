@@ -4341,6 +4341,10 @@ a.list-group-item.active>.badge,
 	border-radius: 10px;
 }
 
+.twitter {
+	max-height: 57.5em;
+}
+
 .timeline h3 {
 	font-style: normal;
 	font-weight: bold;
