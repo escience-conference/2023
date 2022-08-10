@@ -27,7 +27,6 @@ contents:
     panel: false
   meeting:
     registration: true
-    registration_url: https://cvent.me/yX1vvr
     venue: true
     lodging: true
     thingstodo: true
