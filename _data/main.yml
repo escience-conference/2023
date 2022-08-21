@@ -25,6 +25,7 @@ contents:
     workshops: true
     tutorials: true
     panel: false
+    studentprogram: true
   meeting:
     registration: true
     venue: true
