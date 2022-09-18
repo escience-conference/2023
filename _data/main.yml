@@ -24,7 +24,7 @@ contents:
     keynotes: true
     workshops: true
     tutorials: true
-    panel: false
+    panel: true
     studentprogram: true
   meeting:
     registration: true
