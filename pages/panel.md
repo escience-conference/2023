@@ -1,21 +1,21 @@
-## Open Science - Open Data
+## Open Data and the Democratization of Science
 
-Openness is a fundamental principle in science and scholarship. For many centuries, scientific results have been widely disseminated through publications, conferences and meetings so that they can be validated and used for new scientific results. Many scientific results depend on the analysis and interpretation of data and this trend is increasing today, with the ability to use computers to analyze huge amounts of data, new techniques like machine learning that allows new forms of analysis, and increasing amounts of data produced through experiments, simulations, and data collections. Clearly, to validate results and build new ones, the data used needs to be available to others in a meaningful fashion. To achieve this, the FAIR (findable, accessible, interoperable, reusable) guiding principles for scientific data management and stewardship have emerged in recentf years.
+Data has become a key enabler of innovation and discovery in the 21st Century. Researchers today have unprecedented amounts of data from diverse sources, including sensors, instruments, and computational simulations, as well as an equally unprecedented need for computing to allow them to extract meaningful insights from the data to drive understanding, predictions, and decision making. It is there imperative, now more than ever, that all researchers benefit from the opportunities for scientific exploration enabled by data. As a result, ensuring broad, open, fair, and equitable access data is essential to democratizing science. This was recently [highlighted](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) by the US Whitehouse Office of Science and Technology Policy (OSTP) along with its new guidance to ensure that [Federally Funded Research Data Equitably Benefits All of America]((https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/). And similar policies and directive exist in other countries. This panel will explore the challenges and opportunities of open and equitable data and its role in democratizing science. Specifically, the panelists will address one or more of the following questions: 
 
-In addition to data being important, the scientific methods used to generate, organize, and analyze the data are nowadays often encoded in large, complex software packages. It is therefore often necessary not only to have access to data but also software and the FAIR principles should probably apply to software, too, though perhaps with some changes that reflect that software is different than data.
+1.	Technology pushes and pulls: What technical challenges need to be addressed to manage the growing scales, heterogeneity and complexity of data, the resources and expertise needed to process this data, and the question being asked of this data (including the increasing use of AI/ML)?
+1.	Open equitable and fair access: What policy, financial, social, and technical challenges prevent data from being truly open, and ensure fair and equitable access to data by all communities?
+2.	Privacy, Civil Rights, Civil Liberties: What policies and mechanism are needed ensure that privacy, civil rights, and civil liberties are not violated by the data as well as the research that uses of the data? 
+3.	Reproducibility and replicability: How can open data be leveraged to enable reproducibility and replicability across all areas of computational and data-enable science and engineering research, and what incentives and tools and mechanisms can further reproducible/replicable research practices?  
 
-How to best achieve open research, including FAIRness in data (and software), is a big topic in the scientific community and in addition, questions of reproducibility, ownership, protection of IP, and scientific attribution are complicating the discussion.
-
-In this panel we will address these and other questions around Open Science with a world-leading panel.
 
 ### Moderator
 
-- Daniel S. Katz, University of Illinois Urbana-Champaign
+- Manish Parashar, University of Utah, USA
 
 ### Panelists
 
-- Christine L. Borgman, University of California, LA
-- Luke Drury, Dublin Institute for Advanced Studies
-- Carole Goble, University of Manchester
-- Karel Luyben, European Open Science Cloud (EOSC)
-- Victoria Rampin, New York University
+- David Abramson, University of Melbourne, Australia 
+- Ilkay Altintas, University of California, San Diego, USA
+- Drew Mingl, State Data Coordinator, State of Utah
+- Federica Legger, Ludwig-Maximilians-Universität München, Germany 
+- Valerio Pascucci, University of Utah, USA
