@@ -14,9 +14,22 @@
                 {% for d in dates %}
                 <div class="card">
                     {% if d.extended %}
-                    <h4><span class="extended">{{ d.date }}</span> {{ d.extended }}</h4>
+                    <h4>
+                        <span class="extended">{{ d.date }}</span> 
+                        {% if d.over %}
+                        <span class="overdate">{{ d.extended }}</span>
+                        {% else %}
+                        {{ d.extended }}
+                        {% endif %}
+                    </h4>
                     {% else %}
-                    <h4>{{ d.date }}</h4>
+                    <h4>
+                        {% if d.over %}
+                        <span class="overdate">{{ d.date }}</span>
+                        {% else %}
+                        {{ d.date }}
+                        {% endif %}
+                    </h4>
                     {% endif %}
                     <p>{{ d.type }}</p>
                 </div>
