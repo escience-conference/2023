@@ -4434,6 +4434,10 @@ a.list-group-item.active>.badge,
 	color: #999;
 }
 
+.overdate {
+	text-decoration: line-through;
+}
+
 .container h1 {
 	margin-top: 1em;
 }
