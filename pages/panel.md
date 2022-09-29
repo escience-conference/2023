@@ -14,7 +14,7 @@ Data has become a key enabler of innovation and discovery in the 21st Century. R
 
 ### Panelists
 
-- David Abramson, University of Melbourne, Australia 
+- David Abramson, University of Queensland, Australia 
 - Ilkay Altintas, University of California, San Diego, USA
 - Drew Mingl, State Data Coordinator, State of Utah
 - Federica Legger, Ludwig-Maximilians-Universität München, Germany 
