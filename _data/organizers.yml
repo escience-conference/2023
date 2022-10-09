@@ -7,6 +7,7 @@ roles:
   - Tutorial Chair
   - Poster Chair
   - Proceedings Chair
+  - Student Volunteer Chair
 
 organizers:
   - name: Valerio Pascucci
@@ -103,3 +104,13 @@ organizers:
     role: Proceedings Chair
     institution: Pacific Northwest National Laboratory, USA
     photo: tumeo.jpg
+
+  - name: Paula Fernanda Olaya Garcia
+    role: Student Volunteer Chair
+    institution:  University of Tennessee, USA
+    photo: garcia.png
+    
+  - name: Osei Kobe
+    role: Student Volunteer Chair
+    institution: University of Utah, USA
+    photo: kobe.png
