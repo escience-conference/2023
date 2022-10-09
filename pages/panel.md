@@ -17,5 +17,5 @@ Data has become a key enabler of innovation and discovery in the 21st Century. R
 - David Abramson, University of Queensland, Australia 
 - Ilkay Altintas, University of California, San Diego, USA
 - Drew Mingl, State Data Coordinator, State of Utah
-- Federica Legger, Ludwig-Maximilians-Universität München, Germany 
+- Federica Legger, National Institute for Nuclear Physics, Italy 
 - Valerio Pascucci, University of Utah, USA
