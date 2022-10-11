@@ -41,4 +41,4 @@ The tutorial involves hands on exercises in a Jupyter notebooks environment. The
 
 The tutorial exercises and presentation will be available as a self guided tutorial available on the web. This will allow the attendees to continue or revisit the tutorial later, using their training accounts. The instructors will also make their presentation slides available to the attendees. Similar material from a tutorial from last year is available here
 - [Self Contained Tutorial with Hands on Exercises in Jupyter Notebooks](https://pegasus.isi.edu/documentation/user-guide/tutorial.html)
-- [Presentation Slides](https://pegasus.isi.edu/tutorial/escience21/escience21-pegasus5-tutorial-final.pdf)
+- [Presentation Slides](https://drive.google.com/file/d/1eMv9g-a4PMbFvf6RIHikT7-Yp9fDQ68P/view)
