@@ -37,3 +37,4 @@ We go to quickly to DASK or mpi4py without spending time on the fundamentals. If
 ### Support Materials
 
 This is a lecture-based tutorial. It is the foundational tutorial for what will become a long series of hands-on tutorials. The hands-on content, however, has not been created yet.
+- [Presentation slides](https://drive.google.com/file/d/1CXWTfDeWFWeP0MR8uTL0HUJ0Vl4Q2wz_/view)
