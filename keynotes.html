@@ -24,6 +24,9 @@ title: Keynotes
         <div class="biography">
             <strong>Bio.</strong> {{ k.biography }}
         </div>
+        {% if k.slides %}
+        <p><a href="{{ k.slides }}">Presentation slides</a></p>
+        {% endif %}
     </div>
     {% endfor %}
 </div>
