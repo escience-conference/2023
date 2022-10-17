@@ -10,107 +10,102 @@ roles:
   - Student Volunteer Chair
 
 organizers:
-  - name: Valerio Pascucci
+  - name: George A. Papadopoulos
     role: General Chair
-    institution: University of Utah, USA
-    photo: pascucci.jpg
-
-  - name: Manish Parashar
-    role: General Chair
-    institution: University of Utah, USA
-    photo: parashar.jpg
-
-  - name: Pania Newell
-    role: Program Chair
-    institution: University of Utah, USA
-    photo: newell.jpg
-
-  - name: Michela Taufer
-    role: Program Chair
-    institution: University of Tennessee, Knoxville, USA
-    photo: taufer.jpg
-
-  - name: David Abramson
-    role: Track Chair
-    institution: "Translational Computer / Computational Research<br/>University of Queensland, Australia"
-    photo: abramson.png
-
-  - name: Rosa Badia
-    role: Track Chair
-    institution: "Translational Computer / Computational Research<br/>Barcelona Supercomputing Center, Spain"
-    photo: badia.jpg
-
-  - name: Claudia Bauzer Medeiros
-    role: Track Chair
-    institution: "Data Democratization<br/>Institute of Computing (IC) - University of Campinas, Brazil"
-    photo: medeiros.jpg
-
-  - name: Trilce Estrada 
-    role: Track Chair
-    institution: "AI for Science<br/>University of New Mexico, USA"
-    photo: estrada.jpg
-
-  - name: Ian Foster
-    role: Track Chair
-    institution: "Data Democratization<br/>Argonne National Laboratory & University of Chicago, USA"
-    photo: Foster.jpeg
-
-  - name: Valerie Taylor
-    role: Track Chair
-    institution: "AI for Science<br/>Argonne National Laboratory, USA"
-    photo: taylor.jpg
+    institution: University of Cyprus, Cyprus
+    photo: papadopoulos.jpg
 
   - name: Rafael Ferreira da Silva
-    role: Publicity and Web Chair
+    role: Program Chair
     institution: Oak Ridge National Laboratory, USA
     photo: ferreiradasilva.jpg
 
-  - name: Steve Petruzza
-    role: Publicity and Web Chair
-    institution: Utah State University, USA
-    photo: petruzza.jpg
+  - name: Rosa Filgueira
+    role: Program Chair
+    institution: University of St. Andrews, UK
+    photo: filgueira.jpg
 
-  - name: Sandra Gesing
-    role: Workshop Chair
-    institution: University of Illinois, USA
-    photo: gesing.jpg
+  # - name: David Abramson
+  #   role: Track Chair
+  #   institution: "Translational Computer / Computational Research<br/>University of Queensland, Australia"
+  #   photo: abramson.png
 
-  - name: Timo Bremer
-    role: Workshop Chair
-    institution: Lawrence Livermore National Lab, USA
-    photo: bremer.jpg
+  # - name: Rosa Badia
+  #   role: Track Chair
+  #   institution: "Translational Computer / Computational Research<br/>Barcelona Supercomputing Center, Spain"
+  #   photo: badia.jpg
 
-  - name: Giorgis Georgakoudis
-    role: Tutorial Chair
-    institution: Lawrence Livermore National Lab, USA
-    photo: georgakoudis.jpg
+  # - name: Claudia Bauzer Medeiros
+  #   role: Track Chair
+  #   institution: "Data Democratization<br/>Institute of Computing (IC) - University of Campinas, Brazil"
+  #   photo: medeiros.jpg
 
-  - name: Philipp Gschwandtner
-    role: Tutorial Chair
-    institution: University of Innsbruck, Austria 
-    photo: gschwantner.jpg
+  # - name: Trilce Estrada 
+  #   role: Track Chair
+  #   institution: "AI for Science<br/>University of New Mexico, USA"
+  #   photo: estrada.jpg
 
-  - name: Tanu Malik
-    role: Poster Chair
-    institution: DePaul University, USA
-    photo: malik.jpg
+  # - name: Ian Foster
+  #   role: Track Chair
+  #   institution: "Data Democratization<br/>Argonne National Laboratory & University of Chicago, USA"
+  #   photo: Foster.jpeg
 
-  - name: Daniel S. Katz
-    role: Poster Chair
-    institution: University of Illinois Urbana-Champaign, USA
-    photo: katz.jpg
+  # - name: Valerie Taylor
+  #   role: Track Chair
+  #   institution: "AI for Science<br/>Argonne National Laboratory, USA"
+  #   photo: taylor.jpg
 
-  - name: Antonino Tumeo
-    role: Proceedings Chair
-    institution: Pacific Northwest National Laboratory, USA
-    photo: tumeo.jpg
+  # - name: Rafael Ferreira da Silva
+  #   role: Publicity and Web Chair
+  #   institution: Oak Ridge National Laboratory, USA
+  #   photo: ferreiradasilva.jpg
 
-  - name: Paula Fernanda Olaya Garcia
-    role: Student Volunteer Chair
-    institution:  University of Tennessee, USA
-    photo: garcia.png
+  # - name: Steve Petruzza
+  #   role: Publicity and Web Chair
+  #   institution: Utah State University, USA
+  #   photo: petruzza.jpg
+
+  # - name: Sandra Gesing
+  #   role: Workshop Chair
+  #   institution: University of Illinois, USA
+  #   photo: gesing.jpg
+
+  # - name: Timo Bremer
+  #   role: Workshop Chair
+  #   institution: Lawrence Livermore National Lab, USA
+  #   photo: bremer.jpg
+
+  # - name: Giorgis Georgakoudis
+  #   role: Tutorial Chair
+  #   institution: Lawrence Livermore National Lab, USA
+  #   photo: georgakoudis.jpg
+
+  # - name: Philipp Gschwandtner
+  #   role: Tutorial Chair
+  #   institution: University of Innsbruck, Austria 
+  #   photo: gschwantner.jpg
+
+  # - name: Tanu Malik
+  #   role: Poster Chair
+  #   institution: DePaul University, USA
+  #   photo: malik.jpg
+
+  # - name: Daniel S. Katz
+  #   role: Poster Chair
+  #   institution: University of Illinois Urbana-Champaign, USA
+  #   photo: katz.jpg
+
+  # - name: Antonino Tumeo
+  #   role: Proceedings Chair
+  #   institution: Pacific Northwest National Laboratory, USA
+  #   photo: tumeo.jpg
+
+  # - name: Paula Fernanda Olaya Garcia
+  #   role: Student Volunteer Chair
+  #   institution:  University of Tennessee, USA
+  #   photo: garcia.png
     
-  - name: Osei Kobe
-    role: Student Volunteer Chair
-    institution: University of Utah, USA
-    photo: kobe.png
+  # - name: Osei Kobe
+  #   role: Student Volunteer Chair
+  #   institution: University of Utah, USA
+  #   photo: kobe.png
