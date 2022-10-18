@@ -2,7 +2,8 @@ roles:
   - General Chair
   - Program Chair
   - Track Chair
-  - Publicity and Web Chair
+  - Web and Media Chair
+  - Publicity Chair
   - Workshop Chair
   - Tutorial Chair
   - Poster Chair
@@ -60,10 +61,10 @@ organizers:
   #   institution: Oak Ridge National Laboratory, USA
   #   photo: ferreiradasilva.jpg
 
-  # - name: Steve Petruzza
-  #   role: Publicity and Web Chair
-  #   institution: Utah State University, USA
-  #   photo: petruzza.jpg
+  - name: Steve Petruzza
+    role: Web and Media Chair
+    institution: Utah State University, USA
+    photo: petruzza.jpg
 
   # - name: Sandra Gesing
   #   role: Workshop Chair
