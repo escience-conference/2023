@@ -86,15 +86,15 @@ organizers:
   #   institution: University of Innsbruck, Austria 
   #   photo: gschwantner.jpg
 
-  # - name: Tanu Malik
-  #   role: Poster Chair
-  #   institution: DePaul University, USA
-  #   photo: malik.jpg
+  - name: Ana Trisovic
+    role: Poster Chairs
+    institution: Harvard University, USA
+    photo: trisovic.png
 
-  # - name: Daniel S. Katz
-  #   role: Poster Chair
-  #   institution: University of Illinois Urbana-Champaign, USA
-  #   photo: katz.jpg
+  - name: Valerie Hayot-Sasson
+    role: Poster Chairs
+    institution: University of Chicago, USA
+    photo: hayot.jpeg
 
   # - name: Antonino Tumeo
   #   role: Proceedings Chair
