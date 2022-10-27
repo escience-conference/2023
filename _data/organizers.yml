@@ -76,15 +76,15 @@ organizers:
     institution: National Centre of Scientific Research "Demokritos", Greece
     photo: klampanos.jpg
 
-  # - name: Giorgis Georgakoudis
-  #   role: Tutorial Chair
-  #   institution: Lawrence Livermore National Lab, USA
-  #   photo: georgakoudis.jpg
+  - name: Philipp Gschwandtner
+    role: Tutorial Chairs
+    institution: University of Innsbruck, Austria 
+    photo: gschwantner.jpg
 
-  # - name: Philipp Gschwandtner
-  #   role: Tutorial Chair
-  #   institution: University of Innsbruck, Austria 
-  #   photo: gschwantner.jpg
+  - name: Silvina Caino-Lores
+    role: Tutorial Chairs
+    institution: University of Tennessee Knoxville, USA
+    photo: caino-lores.jpeg
 
   - name: Ana Trisovic
     role: Poster Chairs
@@ -95,6 +95,11 @@ organizers:
     role: Poster Chairs
     institution: University of Chicago, USA
     photo: hayot.jpeg
+
+  - name: Georgia (Zeta) M. Kapitsaki
+    role: Publicity Chair
+    institution: University of Cyprus, Cyprus
+    photo: kapitsaki.png
 
   # - name: Antonino Tumeo
   #   role: Proceedings Chair
