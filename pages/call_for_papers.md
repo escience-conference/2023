@@ -3,11 +3,11 @@
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
-The 18th IEEE International eScience Conference (eScience 2022) will be held in Salt Lake City on October 11-14, 2022. eScience 2022 welcomes paper submissions for the technical program, to be held on October 12-14, 2022.
+The 19th IEEE International eScience Conference (eScience 2023) will be held in  Limassol, Cyprus on October 9-13, 2023 (to be confirmed). eScience 2023 welcomes paper submissions for the technical program, to be held on October 9-13, 2023.
 
-eScience 2022 provides an interdisciplinary forum for researchers, developers, and users of eScience applications and enabling IT technologies. Its objective is to promote and encourage all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. The conference welcomes conceptualization, implementation, and experience contributions enabling and driving innovation in data- and compute-intensive research across all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities; encompassing artificial intelligence and machine learning methods; and targeting a broad spectrum of architectures, including HPC, cloud, and IoT.
+eScience 2023 provides an interdisciplinary forum for researchers, developers, and users of eScience applications and enabling IT technologies. Its objective is to promote and encourage all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. The conference welcomes conceptualization, implementation, and experience contributions enabling and driving innovation in data- and compute-intensive research across all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities; encompassing artificial intelligence and machine learning methods; and targeting a broad spectrum of architectures, including HPC, cloud, and IoT.
 
-The overarching theme of eScience 2022 conference is “Democratizing eScience”. This year, the conference is emphasizing three key topics:
+**The overarching theme of eScience 2023 conference is “Democratizing eScience”. This year, the conference is emphasizing three key topics:**
 -	Translational Research in Computer and Computational Sciences 
 -	Artificial Intelligence and Machine Learning for Science
 -	Data and Data Democratization
@@ -31,7 +31,7 @@ Contributions should be submitted in PDF format to:
 Authors are invited to submit abstracts (maximum 300 words). Contributions should be submitted in PDF format to: [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/)
 
 ## Awards
-eScience 2022 will host the following awards, which will be announced at the conference.
+eScience 2023 will host the following awards, which will be announced at the conference.
 -	Best Paper Award
 -	Best Student Paper Award
 -	Best Poster Award
@@ -41,17 +41,17 @@ eScience 2022 will host the following awards, which will be announced at the con
 ## Key Dates
  
 The important dates of the conference are as follows:
-- Paper Submissions Due: <s>Monday, May 16</s> Tuesday, May 31, 2022
-- Notification of Paper Acceptance: <s>Monday, June 27</s>, July 11-15, 2022
-- Poster and Abstract Submissions due: Monday, July 18, 2022
-- Poster and Abstract Acceptance Notification: Monday, July 25, 2022
-- All Camera-ready Submissions due: Monday, August 15, 2022
-- Conference: October 11-14, 2022 
+- Paper Submissions Due: Monday, May 17 2023
+- Notification of Paper Acceptance: Monday, June 26
+- Poster and Abstract Submissions due: Monday, July 10, 2023
+- Poster and Abstract Acceptance Notification: Monday, July 24, 2023
+- All Camera-ready Submissions due: Monday, August 14, 2023
+- Conference: October 9-13, 2023 
 
 ## Contact information
 
-Pania Newell,  Technical Program Co-Chair, University of Utah
-Michela Taufer, Technical Program Co-Chair, University of Tennessee Knoxville
+Rafael Ferreira da Silva,  Technical Program Co-Chair, Oak Ridge National Laboratory, USA
+Rosa Filgueira, Technical Program Co-Chair, University of St Andrews, UK
 
 Email contact: Technical-Program@eScience-conference.org
 
