@@ -62,7 +62,7 @@ permalink: /
 <div class="sponsors">
     <div class="container">
         <h4 style="margin-bottom: 1em; color: #666">Sponsors</h4>
-        <!-- {% for s in site.data.sponsors %}
+        {% for s in site.data.sponsors %}
         <div class="col-sm-3 sponsor">
             {% if s.link %}
             <a href="{{ s.link }}" target="_blank">
@@ -72,7 +72,7 @@ permalink: /
             <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
             {% endif %}
         </div>
-        {% endfor %} -->
+        {% endfor %}
     </div>
     <br /><br />
     <div class="container">
