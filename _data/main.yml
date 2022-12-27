@@ -16,7 +16,7 @@ description:
 contents:
   calls:
     papers: false
-    workshops: false
+    workshops: true
     tutorials: false
     posters: false
   program:
