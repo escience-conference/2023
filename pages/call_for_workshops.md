@@ -3,8 +3,6 @@
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
-# Call for Workshops
-
 The 19th IEEE eScience Conference will be held in **Limassol, Cyprus on October 9-13, 2023**. eScience 2023 welcomes proposals for workshops to be co-located with the main conference on **Monday, October 9 and Tuesday, October 10, 2023**.
 
 The eScience conference has a long history of hosting well-attended workshops broadly related to eScience and co-located with the main conference. These workshops share the goal of bringing together international and interdisciplinary research communities, developers, and users of eScience applications and enabling IT technologies.

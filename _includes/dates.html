@@ -12,7 +12,7 @@
             <div class="cards">
                 {% assign dates = site.data.important_dates | order: "date" %}
                 {% for d in dates %}
-                <div class="card">
+                <div class="card" style="width: 22em">
                     {% if d.extended %}
                     <h4>
                         <span class="extended">{{ d.date }}</span> 

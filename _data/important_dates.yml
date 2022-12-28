@@ -4,20 +4,20 @@
 - type: Workshop Acceptance Notification
   date: Friday, February 24, 2023
 
-- type: Paper and Tutorial Submissions
+- type: Paper Submissions
+  date: Friday, May 26, 2023
+
+- type: Notification of Paper Acceptance
+  date: Friday, June 30, 2023
+
+- type: Poster Submissions
   date: 2023
 
-- type: Notification of Paper and Tutorial Acceptance
-  date: 2023
-
-- type: Poster and Abstract Submissions
-  date: 2023
-
-- type: Poster and Abstract Acceptance Notification
+- type: Poster Notification
   date: 2023
 
 - type: All Camera-ready Submissions
-  date: 2023
+  date: Monday, August 14, 2023
 
 - type: Conference
   date: October 9-13, 2023
