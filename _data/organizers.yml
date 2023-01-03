@@ -1,14 +1,15 @@
 roles:
   - General Chair
   - Program Chairs
-  - Track Chairs
-  - Web and Media Chairs
+  # - Track Chairs
+  - Web Chair
+  - Media Chairs
   - Publicity Chair
   - Workshop Chairs
   - Tutorial Chairs
   - Poster Chairs
   - Proceedings Chair
-  - Student Volunteer Chair
+  # - Student Volunteer Chair
 
 organizers:
   - name: George A. Papadopoulos
@@ -57,14 +58,19 @@ organizers:
   #   photo: taylor.jpg
 
   - name: Steve Petruzza
-    role: Web and Media Chairs
+    role: Web Chair
     institution: Utah State University, USA
     photo: petruzza.jpg
 
   - name: Ana Luisa Solórzano
-    role: Web and Media Chairs
+    role: Media Chairs
     institution: Northeastern University, USA
     photo: solorzano.jpeg
+
+  - name: Paula Fernanda Olaya Garcia
+    role: Media Chairs
+    institution: University of Tennessee, USA
+    photo: garcia.png
 
   - name: Frédéric Suter
     role: Workshop Chairs
