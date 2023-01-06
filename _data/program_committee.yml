@@ -46,14 +46,14 @@
 # - name: Anna Giannakou
 #   institution: Lawrence Berkeley National Laboratory, USA
 
-# - name: Madhu Govindaraju
-#   institution: SUNY Binghamton, USA
+- name: Madhu Govindaraju
+  institution: SUNY Binghamton, USA
 
 # - name: Ray Grout
 #   institution: National Renewable Energy Laboratory, USA
 
-# - name: Tom Hacker
-#   institution: Purdue University, USA
+- name: Tom Hacker
+  institution: Purdue University, USA
 
 # - name: Forrest Hoffman
 #   institution: Oak Ridge National Laboratory, USA
@@ -61,8 +61,8 @@
 # - name: Jim Hogan
 #   institution: Queensland University of Technology, Australia
   
-# - name: Eliu Huerta
-#   institution: Argonne National Laboratory, USA
+- name: Eliu Huerta
+  institution: Argonne National Laboratory, USA
 
 # - name: Rajkumar Kettimuthu
 #   institution: Argonne National Laboratory, USA
@@ -70,8 +70,8 @@
 # - name: Rao Kotamarthi
 #   institution: Argonne National Laboratory, USA
 
-# - name: Alexey Lastovetsky
-#   institution: University College Dublin, Ireland
+- name: Alexey Lastovetsky
+  institution: University College Dublin, Ireland
 
 # - name: Erwin Laure
 #   institution: MPCDF, Germany
@@ -88,8 +88,8 @@
 # - name: Zarija Lukic
 #   institution: Lawrence Berkeley National Laboratory, USA
 
-# - name: Gang Luo
-#   institution: University of Washington, USA
+- name: Gang Luo
+  institution: University of Washington, USA
 
 # - name: Piotr Luszczek
 #   institution: University of Tennessee Knoxville, USA
