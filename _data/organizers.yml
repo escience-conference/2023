@@ -62,55 +62,55 @@ organizers:
     institution: Utah State University, USA
     photo: petruzza.jpg
 
-  - name: Ana Luisa Solórzano
-    role: Media Chairs
-    institution: Northeastern University, USA
-    photo: solorzano.jpeg
-
   - name: Paula Fernanda Olaya Garcia
     role: Media Chairs
     institution: University of Tennessee, USA
     photo: garcia.png
 
-  - name: Frédéric Suter
-    role: Workshop Chairs
-    institution: Oak Ridge National Laboratory, USA
-    photo: suter.jpg
+  - name: Ana Luisa Solórzano
+    role: Media Chairs
+    institution: Northeastern University, USA
+    photo: solorzano.jpeg
 
   - name: Iraklis Klampanos
     role: Workshop Chairs
     institution: National Centre of Scientific Research "Demokritos", Greece
     photo: klampanos.jpg
 
-  - name: Philipp Gschwandtner
-    role: Tutorial Chairs
-    institution: University of Innsbruck, Austria 
-    photo: gschwantner.jpg
+  - name: Frédéric Suter
+    role: Workshop Chairs
+    institution: Oak Ridge National Laboratory, USA
+    photo: suter.jpg
 
   - name: Silvina Caino-Lores
     role: Tutorial Chairs
     institution: University of Tennessee Knoxville, USA
     photo: caino-lores.jpeg
 
-  - name: Ana Trisovic
-    role: Poster Chairs
-    institution: Harvard University, USA
-    photo: trisovic.png
+  - name: Philipp Gschwandtner
+    role: Tutorial Chairs
+    institution: University of Innsbruck, Austria 
+    photo: gschwantner.jpg
 
   - name: Valerie Hayot-Sasson
     role: Poster Chairs
     institution: University of Chicago, USA
     photo: hayot.jpeg
 
+  - name: Ana Trisovic
+    role: Poster Chairs
+    institution: Harvard University, USA
+    photo: trisovic.png
+
   - name: Georgia (Zeta) M. Kapitsaki
     role: Publicity Chair
     institution: University of Cyprus, Cyprus
     photo: kapitsaki.png
 
-  # - name: Antonino Tumeo
-  #   role: Proceedings Chair
-  #   institution: Pacific Northwest National Laboratory, USA
-  #   photo: tumeo.jpg
+  - name: Weronika Filinger
+    role: Proceedings Chair
+    institution: University of Edinburgh, UK
+    photo: filinger.jpeg
 
   # - name: Paula Fernanda Olaya Garcia
   #   role: Student Volunteer Chair
