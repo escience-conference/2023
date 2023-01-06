@@ -1,23 +1,23 @@
 # - name: Katerina Antypas
 #   institution: Lawrence Livermore National Laboratory, USA
 
-# - name: Malcolm Atkinson
-#   institution: The University of Edinburgh, UK
+- name: Malcolm Atkinson
+  institution: The University of Edinburgh, UK
 
-# - name: Prasanna Balaprakash
-#   institution: Argonne National Laboratory, USA
+- name: Prasanna Balaprakash
+  institution: Argonne National Laboratory, USA
 
 - name: Wes Bethel
   institution: Lawrence Berkeley National Laboratory, USA
 
-# - name: Kris Bubendorfer
-#   institution: Victoria University of Wellington, New Zealand
+- name: Kris Bubendorfer
+  institution: Victoria University of Wellington, New Zealand
 
 # - name: Tamas Budavari
 #   institution: Johns Hopkins University, USA
 
-# - name: Hans-Joachim Bungartz
-#   institution: Technical University of Munich, Germany
+- name: Hans-Joachim Bungartz
+  institution: Technical University of Munich, Germany
 
 # - name: Donatella Castelli
 #   institution: CNR-ISTI, Italy
