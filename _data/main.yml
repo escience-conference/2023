@@ -35,4 +35,4 @@ contents:
     quickstart: false
   committees:
     organizers: true
-    pc: false
+    pc: true
