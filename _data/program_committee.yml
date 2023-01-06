@@ -148,8 +148,8 @@
 # - name: Rob Schuler
 #   institution: Information Sciences Institute, USA
 
-# - name: Arjun Shankar
-#   institution: Oak Ridge National Laboratory, USA
+- name: Arjun Shankar
+  institution: Oak Ridge National Laboratory, USA
 
 # - name: Raul Sirvent
 #   institution: Barcelona Supercomputing Center, Spain
@@ -189,3 +189,6 @@
 
 # - name: Xingfu Wu
 #   institution: Argonne National Laboratory, USA
+
+- name: Orcun Yildiz
+  institution: Argonne National Laboratory, USA
