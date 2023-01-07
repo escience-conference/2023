@@ -19,8 +19,8 @@
 - name: Hans-Joachim Bungartz
   institution: Technical University of Munich, Germany
 
-# - name: Donatella Castelli
-#   institution: CNR-ISTI, Italy
+- name: Donatella Castelli
+  institution: CNR-ISTI, Italy
 
 # - name: Kum-Won Cho
 #   institution: KISTI Supercomputing Center, South Korea
@@ -34,14 +34,14 @@
 # - name: Vasa Curcin
 #   institution: King's College London, UK
 
-# - name: Susumu Date
-#   institution: Osaka University, Japan
+- name: Susumu Date
+  institution: Osaka University, Japan
 
-# - name: Antonella Galizia
-#   institution: IMATI-CNR, Italy
+- name: Antonella Galizia
+  institution: IMATI-CNR, Italy
 
-# - name: Alberto Garcia
-#   institution: ICMAB-CSIC, Spain
+- name: Alberto Garcia
+  institution: ICMAB-CSIC, Spain
 
 # - name: Anna Giannakou
 #   institution: Lawrence Berkeley National Laboratory, USA
@@ -73,8 +73,8 @@
 - name: Alexey Lastovetsky
   institution: University College Dublin, Ireland
 
-# - name: Erwin Laure
-#   institution: MPCDF, Germany
+- name: Erwin Laure
+  institution: MPCDF, Germany
 
 - name: Ulf Leser
   institution: Humboldt-Universitaet zu Berlin, Germany
@@ -82,8 +82,8 @@
 # - name: Daniele Lezzi
 #   institution: Barcelona Supercomputing Center, Spain
 
-# - name: Chen Li
-#   institution: Monash University, Australia
+- name: Chen Li
+  institution: Monash University, Australia
 
 # - name: Andre Luckow
 #   institution: Clemson University, USA
@@ -127,8 +127,8 @@
 # - name: Dirk Pleiter
 #   institution: KTH Royal Institute of Technology, Sweden
 
-# - name: Fabio Porto
-#   institution: National Laboratory of Scientific Computation, Brazil
+- name: Fabio Porto
+  institution: National Laboratory of Scientific Computation, Brazil
 
 # - name: Thomas Poulet
 #   institution: CSIRO, Australia
@@ -139,8 +139,8 @@
 - name: Marcelo S. Reis
   institution: University of Campinas, Brazil
 
-# - name: Paul Roe
-#   institution: Queensland University of Technology, Australia
+- name: Paul Roe
+  institution: Queensland University of Technology, Australia
 
 # - name: Jibo Sanyal
 #   institution: Oak Ridge National Lab, USA
