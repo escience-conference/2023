@@ -25,8 +25,8 @@
 # - name: Kum-Won Cho
 #   institution: KISTI Supercomputing Center, South Korea
 
-# - name: Andrea Clematis
-#   institution: IMATI - CNR, Italy
+- name: Andrea Clematis
+  institution: IMATI - CNR, Italy
 
 - name: Simon Cox
   institution: University of Southampton, UK
@@ -97,8 +97,8 @@
 - name: Piotr Luszczek
   institution: University of Tennessee Knoxville, USA
 
-# - name: Amit Majumdar
-#   institution: University of California San Diego, USA
+- name: Amit Majumdar
+  institution: San Diego Supercomputer Center, USA
 
 # - name: Maciej Malawski
 #   institution: AGH University of Science and Technology, Poland
@@ -124,8 +124,8 @@
 # - name: Tom Peterka
 #   institution: Argonne National Laboratory, USA
 
-# - name: Dirk Pleiter
-#   institution: KTH Royal Institute of Technology, Sweden
+- name: Dirk Pleiter
+  institution: KTH Royal Institute of Technology, Sweden
 
 - name: Fabio Porto
   institution: National Laboratory of Scientific Computation, Brazil
@@ -160,8 +160,8 @@
 # - name: Achim Streit
 #   institution: Karlsruhe Institute of Technology, Germany
 
-# - name: Domenico Talia
-#   institution: University of Calabria, Italy
+- name: Domenico Talia
+  institution: University of Calabria, Italy
 
 # - name: Yoshio Tanaka
 #   institution: National Institute of Advanced Industrial Science and Technology (AIST), Japan
