@@ -58,8 +58,8 @@
 # - name: Forrest Hoffman
 #   institution: Oak Ridge National Laboratory, USA
 
-# - name: Jim Hogan
-#   institution: Queensland University of Technology, Australia
+- name: Jim Hogan
+  institution: Queensland University of Technology, Australia
   
 - name: Eliu Huerta
   institution: Argonne National Laboratory, USA
@@ -109,8 +109,8 @@
 - name: Marta Mattoso
   institution: Federal University of Rio de Janeiro, Brazil
 
-# - name: Jose Moreira
-#   institution: University of Aveiro, Portugal
+- name: Jose Moreira
+  institution: University of Aveiro, Portugal
 
 # - name: Fatima Nunes
 #   institution: University of S√£o Paulo, Brazil
@@ -154,26 +154,26 @@
 - name: Arjun Shankar
   institution: Oak Ridge National Laboratory, USA
 
-# - name: Raul Sirvent
-#   institution: Barcelona Supercomputing Center, Spain
+- name: Raul Sirvent
+  institution: Barcelona Supercomputing Center, Spain
 
 # - name: Nigel Stanger
 #   institution: University of Otago, New Zealand
 
-# - name: Achim Streit
-#   institution: Karlsruhe Institute of Technology, Germany
+- name: Achim Streit
+  institution: Karlsruhe Institute of Technology, Germany
 
 - name: Domenico Talia
   institution: University of Calabria, Italy
 
-# - name: Yoshio Tanaka
-#   institution: National Institute of Advanced Industrial Science and Technology (AIST), Japan
+- name: Yoshio Tanaka
+  institution: National Institute of Advanced Industrial Science and Technology, Japan
 
 - name: Roselyne Tchoua
   institution: DePaul University, USA
   
-# - name: Aniket Tekawade
-#   institution: Argonne National Laboratory
+- name: Aniket Tekawade
+  institution: TBA
 
 # - name: Douglas Thain
 #   institution: University of Notre Dame,USA
