@@ -181,11 +181,11 @@
 - name: Rajeev Thakur
   institution: Argonne National Laboratory, USA
 
-# - name: Rob Van Nieuwpoort
-#   institution: Netherlands eScience Center, The Netherlands
+- name: Rob Van Nieuwpoort
+  institution: Netherlands eScience Center, The Netherlands
 
-# - name: David Walker
-#   institution: Cardiff University, UK
+- name: David Walker
+  institution: Cardiff University, UK
 
 - name: Paul Watson
   institution: Newcastle University, UK
