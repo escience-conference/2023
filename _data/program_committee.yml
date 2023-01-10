@@ -133,8 +133,8 @@
 - name: Loïc Pottier
   institution: Lawrence Livermore National Laboratory, USA
 
-# - name: Thomas Poulet
-#   institution: CSIRO, Australia
+- name: Thomas Poulet
+  institution: CSIRO, Australia
 
 # - name: Lavanya Ramakrishnan
 #   institution: Lawrence Berkeley National Laboratory, USA
@@ -167,7 +167,7 @@
   institution: University of Calabria, Italy
 
 - name: Yoshio Tanaka
-  institution: National Institute of Advanced Industrial Science and Technology, Japan
+  institution: AIST, Japan
 
 - name: Roselyne Tchoua
   institution: DePaul University, USA
