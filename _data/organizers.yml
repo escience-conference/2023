@@ -1,7 +1,7 @@
 roles:
   - General Chair
   - Program Chairs
-  # - Track Chairs
+  - Track Chairs
   - Web Chair
   - Media Chairs
   - Publicity Chair
@@ -27,35 +27,39 @@ organizers:
     institution: University of St. Andrews, UK
     photo: filgueira.jpg
 
-  # - name: David Abramson
-  #   role: Track Chair
-  #   institution: "Translational Computer / Computational Research<br/>University of Queensland, Australia"
-  #   photo: abramson.png
+  - name: Ilkay Altintas
+    role: Track Chairs
+    institution: University of California San Diego, USA
 
-  # - name: Rosa Badia
-  #   role: Track Chair
-  #   institution: "Translational Computer / Computational Research<br/>Barcelona Supercomputing Center, Spain"
-  #   photo: badia.jpg
+  - name: Marios D. Dikaiakos
+    role: Track Chairs
+    institution: University of Cyprus, Cyprus
 
-  # - name: Claudia Bauzer Medeiros
-  #   role: Track Chair
-  #   institution: "Data Democratization<br/>Institute of Computing (IC) - University of Campinas, Brazil"
-  #   photo: medeiros.jpg
+  - name: Simon Andrew Dobson
+    role: Track Chairs
+    institution: University of St Andrews, UK
 
-  # - name: Trilce Estrada 
-  #   role: Track Chair
-  #   institution: "AI for Science<br/>University of New Mexico, USA"
-  #   photo: estrada.jpg
+  - name: Sandra Gesing
+    role: Track Chairs
+    institution: University of Illinois Chicago, USA
+    photo: gesing.jpg
 
-  # - name: Ian Foster
-  #   role: Track Chair
-  #   institution: "Data Democratization<br/>Argonne National Laboratory & University of Chicago, USA"
-  #   photo: Foster.jpeg
+  - name: Carole Goble
+    role: Track Chairs
+    institution: The University of Manchester, UK
 
-  # - name: Valerie Taylor
-  #   role: Track Chair
-  #   institution: "AI for Science<br/>Argonne National Laboratory, USA"
-  #   photo: taylor.jpg
+  - name: Wilco Hazeleger
+    role: Track Chairs
+    institution: Utrecht University, Netherlands
+
+  - name: Daniel S. Katz 
+    role: Track Chairs
+    institution: University of Illinois Urbana-Champaign, USA
+    photo: katz.jpg
+
+  - name: Rob van Nieuwpoort
+    role: Track Chairs
+    institution: Netherlands eScience, University of Amsterdam, Netherlands
 
   - name: Steve Petruzza
     role: Web Chair
@@ -111,6 +115,11 @@ organizers:
     role: Proceedings Chair
     institution: University of Edinburgh, UK
     photo: filinger.jpeg
+
+  - name: Ankit R. Patel
+    role: Proceedings Chair
+    institution: University of Minho, Portugal
+    photo: patel.png
 
   # - name: Paula Fernanda Olaya Garcia
   #   role: Student Volunteer Chair
