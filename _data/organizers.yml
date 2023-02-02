@@ -47,7 +47,7 @@ organizers:
 
   - name: Carole Goble
     role: Track Chairs
-    institution: The University of Manchester, UK
+    institution: FAIR<br />The University of Manchester, UK
     photo: goble.jpeg
 
   - name: Wilco Hazeleger
@@ -56,12 +56,13 @@ organizers:
 
   - name: Daniel S. Katz 
     role: Track Chairs
-    institution: University of Illinois Urbana-Champaign, USA
+    institution: FAIR<br />University of Illinois Urbana-Champaign, USA
     photo: katz.jpg
 
   - name: Rob van Nieuwpoort
     role: Track Chairs
     institution: Netherlands eScience, University of Amsterdam, Netherlands
+    photo: nieuwpoort.jpeg
 
   - name: Steve Petruzza
     role: Web Chair
