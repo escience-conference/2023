@@ -5,7 +5,7 @@
 
 eScience 2023 provides an interdisciplinary forum for researchers, developers, and users of eScience applications and enabling IT technologies. Its objective is to promote and encourage all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. The conference welcomes conceptualization, implementation, and experience contributions enabling and driving innovation in data- and compute-intensive research across all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities; encompassing artificial intelligence and machine learning methods; and targeting a broad spectrum of architectures, including HPC, cloud, and IoT.
 
-This year, the conference is promoting four additional key topics:
+This year, the conference is promoting four additional key topics (tracks):
 - Computational Science for sustainable development
 - FAIR
 - Research Infrastructures for eScience
