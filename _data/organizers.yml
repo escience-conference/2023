@@ -29,42 +29,42 @@ organizers:
 
   - name: Ilkay Altintas
     role: Track Chairs
-    institution: University of California San Diego, USA
+    institution: <i>Research Infrastructures for eScience</i><br />University of California San Diego, USA
     photo: altintas.jpg
 
   - name: Marios D. Dikaiakos
     role: Track Chairs
-    institution: University of Cyprus, Cyprus
+    institution: "<i>Continuum  Computing: Convergence between Cloud Computing and the Internet of Things (IoT)</i><br />University of Cyprus, Cyprus"
     photo: dikaiakos.jpeg
 
   - name: Simon Andrew Dobson
     role: Track Chairs
-    institution: University of St Andrews, UK
+    institution: "<i>Continuum  Computing: Convergence between Cloud Computing and the Internet of Things (IoT)</i><br />University of St Andrews, UK"
     photo: dobson.jpg
 
   - name: Sandra Gesing
     role: Track Chairs
-    institution: University of Illinois Chicago, USA
+    institution: <i>Computational Science for Sustainable Development</i><br />University of Illinois Chicago, USA
     photo: gesing.jpg
 
   - name: Carole Goble
     role: Track Chairs
-    institution: FAIR<br />The University of Manchester, UK
+    institution: <i>FAIR</i><br />The University of Manchester, UK
     photo: goble.jpeg
 
   - name: Wilco Hazeleger
     role: Track Chairs
-    institution: Utrecht University, Netherlands
+    institution: <i>Computational Science for Sustainable Development</i><br />Utrecht University, Netherlands
     photo: hazeleger.jpg
 
   - name: Daniel S. Katz 
     role: Track Chairs
-    institution: FAIR<br />University of Illinois Urbana-Champaign, USA
+    institution: <i>FAIR</i><br />University of Illinois Urbana-Champaign, USA
     photo: katz.jpg
 
   - name: Rob van Nieuwpoort
     role: Track Chairs
-    institution: Netherlands eScience, University of Amsterdam, Netherlands
+    institution: <i>Research Infrastructures for eScience</i><br />Netherlands eScience, University of Amsterdam, Netherlands
     photo: nieuwpoort.jpeg
 
   - name: Steve Petruzza
