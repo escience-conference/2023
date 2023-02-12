@@ -58,8 +58,8 @@ Proposals for workshops or mini-symposia with invited talks only should include 
 
 ### Key dates
 
-- Workshop Submissions due: **Friday, February 10, 2023**
-- Workshop Acceptance Notification: **Friday, February 24, 2023**
+- Workshop Submissions due: **Friday, <strike>February 10, 2023</strike> <span style="color: red">February 24, 2023</span>**
+- Workshop Acceptance Notification: **Friday, <strike>February 24, 2023</strike> <span style="color: red">March 10, 2023</span>**
 - All Camera-ready Submissions due: **Friday, July 21, 2023**
 - Final list of talks / agenda for no-proceedings workshops: **Friday, July 21, 2023**
 - Workshops: **October 9** and **October 10, 2023**
