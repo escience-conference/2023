@@ -18,6 +18,8 @@ The conference is soliciting two types of contributions:
 Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-column text using single-spaced 10-point font on 8.5×11-inch pages. Templates are available from [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html). 
 All submissions will be single-blind peer reviewed. Selected full papers will receive a slot for an oral presentation. Accepted posters will be presented during a poster reception. Accepted full papers and poster papers will be published in the conference proceedings. Rejected full papers can be re-submitted for a poster presentation. At least one author of each accepted paper or poster must register as an author at the full registration rate. Each author registration can be applied to only one accepted submission.
 
+**Note.** The use of artificial intelligence (AI)–generated text in an article shall be disclosed in the acknowledgements section of any paper submitted to an IEEE Conference or Periodical. The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text.  For more information [please click here](https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/).
+
 ### Awards
 
 eScience 2023 will host the following awards, which will be announced at the conference.
