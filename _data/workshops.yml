@@ -1,9 +1,9 @@
-# - name: 'Second Workshop on Reproducible Workflows, Data, and Security (ReWorDS 2022)'
-#   abstract: >
-#             Emerging and future computational workloads are combining traditional HPC applications with tools and techniques from the scale out data analytics and machine learning community. Getting these technologies to coexist and interoperate to advance scientific discovery is a daunting task with few known good solutions. In general, constructing these workflows has the potential to create pitfalls and incompatibilities that limit adoption. 
+- name: '3rd Workshop on Reproducible Workflows, Data Management, and Security (ReWorDS 2023)'
+  abstract: >
+            Emerging and future computational workloads are combining traditional HPC applications with tools and techniques from the scale-out data analytics and machine learning community. Getting these technologies to co-exist and interoperate to advance scientific discovery is a daunting task with few known good solutions. In general, constructing these workflows has the potential to create pitfalls and incompatibilities that limit adoption.
 
-#             This workshop seeks to explore ideas and experiences on what kinds of infrastructure developments can improve upon the state of the art. Explorations of component packaging via containers and virtual machines, automation scripting, deployment, portability builds, and system support for these and other relevant activities are key infrastructure. Provenance collection, exploration, and tracking are key for a well documented scientific output. Using existing systems to achieve these goals via experiences are important for developing best practices that span application domains. Data privacy techniques such as multi-party encryption and differential privacy are important as well. Issues with managing large data sets and workflow intermediate data, particularly those intended to manage publicly accessed data for use and reuse are encouraged. New techniques and technologies that address reproducibility requirements are also requested. We seek work on all of these, and related, topics as well as position and experience papers looking to drive conversation for practitioners and researchers in these spaces.
-#   url: https://sites.google.com/view/rewords22
+            This workshop seeks to explore ideas and experiences on what kinds of infrastructure developments can improve upon the state of the art. Explorations of component packaging via containers and virtual machines, automation scripting, deployment,  portability builds, and system support for these and other relevant activities are key infrastructure.
+  url: https://sites.google.com/vols.utk.edu/rewords23/home
 
 # - name: 'Software Engineering for eScience 2022 (SE4eScience22)'
 #   abstract: >
