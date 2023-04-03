@@ -44,3 +44,19 @@
             Note: The 4th Global Research Platform (4GRP) Workshop is a separate event that is co-located with eScience. 
             4GRP is an open event and eScience registrants not attending eScience workshops or tutorials are welcome to register for 4GRP instead.          
   url: https://www.theglobalresearchplatform.net/
+
+- name: 'IEEE International Workshop on Artificial Intelligence for Health (AI4Health 2023)'
+  abstract: >
+            The workshop on Artificial Intelligence for Health (AI4Health 2023) aims at bringing together researchers from academia, industry, government, and medical centers to present state-of-the-art and discuss the latest advances in the emerging area of the use of artificial intelligence and soft computing techniques, be they black boxes or explanation-based, to signals, images, and data in the fields of medicine, healthcare, and wellbeing. AI4Health is expected to cover the whole range of theoretical and practical aspects, technologies, and systems related to the application of artificial intelligence and soft computing methodologies to issues such as machine learning, deep learning, knowledge discovery, decision support, classification, regression, forecasting, optimization, and feature selection in the healthcare and wellbeing domain.
+  url: https://www.ai4health.icar.cnr.it/
+
+- name: '1st Workshop on cItizeN Science engagemenT based on Ict soLutions (INSTIL 2023)'
+  abstract: >
+            This workshop invites researchers who have or are interested to invested significant 
+            efforts in the design and development of ICT-based tools, software, serious games, 
+            eScience applications, and solutions to engage the general public in science. The 
+            general goal of the workshop is to act as a community venue to convey multidisciplinary
+            experienes in exploring ICT solutions to raise awareness, engage and empower citizens
+            and stakeholders in science with concrete eScience tools.
+
+  url: http://www.instil-science.eu/
