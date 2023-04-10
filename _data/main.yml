@@ -43,7 +43,7 @@ contents:
     studentprogram: false
   meeting:
     registration: false
-    venue: false
+    venue: true
     lodging: false
     thingstodo: false
     virtual: false
