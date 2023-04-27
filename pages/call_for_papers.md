@@ -12,7 +12,7 @@ This year, the conference is promoting four additional key topics (tracks):
 - Continuum  Computing: Convergence between Cloud Computing and the Internet of Things (IoT)
 
 The conference is soliciting two types of contributions:
-- **Full papers (10 pages)** presenting previously unpublished research achievements or eScience experiences and solutions
+- **Full papers (10 pages including references)** presenting previously unpublished research achievements or eScience experiences and solutions
 - **Posters (2 pages)** showcasing early-stage results and innovations
 
 Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-column text using single-spaced 10-point font on 8.5×11-inch pages. Templates are available from [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html). 
