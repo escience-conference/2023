@@ -4330,7 +4330,7 @@ a.list-group-item.active>.badge,
 .timeline,
 .twitter {
 	width: 100%;
-	max-height: 51em;
+	max-height: 62em;
 	padding: 1em;
 	background: #ECF1F524;
 	mix-blend-mode: normal;
@@ -4342,7 +4342,7 @@ a.list-group-item.active>.badge,
 }
 
 .twitter {
-	max-height: 57.5em;
+	max-height: 65em;
 }
 
 .timeline h3 {
