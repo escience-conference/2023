@@ -9,16 +9,17 @@
 - type: Tutorial Submissions
   date: Friday, May 26, 2023
 
-- type: "Paper Submissions <span style='color: red'>(firm deadline)</span>"
+# - type: "Paper Submissions <span style='color: red'>(firm deadline)</span>"
+- type: Paper Submissions
   date: Friday, May 26, 2023
-  extended: Monday, June 19, 2023
+  # extended: Monday, June 19, 2023
 
 - type: Notification of Tutorial Acceptance
   date: Friday, June 30, 2023
 
 - type: Notification of Paper Acceptance
   date: Friday, June 30, 2023
-  extended: Monday, July 10, 2023
+  # extended: Monday, July 10, 2023
 
 - type: Poster Submissions
   date: Friday, July 14, 2023
