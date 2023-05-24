@@ -1,10 +1,32 @@
+- title: "TBA"
+  # time: Wednesday, Oct 11
+  name: İlkay Altıntaş
+  id: ilkay-altintas
+  institution: University of California San Diego
+  photo: altintas.jpg
+  chair: Rafael Ferreira da Silva (ORNL)
+  abstract: "TBA"
+  biography: "TBA"
+  # slides: 
+
 - title: "Global Services for Global Science"
   # time: Wednesday, Oct 11
   name: Ian T. Foster
   id: ian-foster
   institution: University of Chicago and Argonne National Laboratory
   photo: foster.jpg
-  chair: Rafael Ferreira da Silva (ORNL)
+  chair: Rosa Filgueira (University of St Andrews)
   abstract: "We are on the verge of a global communications revolution based on ubiquitous high-speed optical, 5G, 6G, and free-space optics technologies. The resulting communications fabric can enable new ultra-collaborative research modalities that pool sensors, data, and computation with unprecedented flexibility and focus. But realizing these new modalities requires that we overcome the friction that currently impedes actions that traverse institutional boundaries. The solution, I argue, is new global science services to mediate between user intent and infrastructure realities. I describe our experiences building and operating such services, and present examples of their application and use."
   biography: "Ian Foster is the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago, and Senior Scientist and Distinguished Fellow, and director of the Data Science and Learning Division, at Argonne National Laboratory. He has a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research is in distributed, parallel, and data-intensive computing technologies, and their applications to scientific problems. He is a fellow of the AAAS, ACM, BCS, and IEEE, and has received the BCS Lovelace Medal; IEEE Babbage, Goode, and Kanai awards; and ACM/IEEE Ken Kennedy award."
+  # slides: 
+
+- title: "From Data to Impact"
+  # time: Wednesday, Oct 11
+  name: Paul Watson
+  id: paul-watson
+  institution: Newcastle University
+  photo: watson.jpg
+  chair: George A. Papadopoulos (University of Cyprus)
+  abstract: "The National Innovation Centre for Data (NICD) was created by the UK government and Newcastle University to generate economic and societal benefit from data. Most commercial and public sector organisations are drowning in data. They can often see that this could help them gain insights into their business, optimise existing operations, and launch new data-driven products and services. However, few organisations have the skills needed to realise the potential of data to transform their business. Since 2019, NICD has been addressing this challenge by transferring data science and AI skills into organisations. It does this through projects in which its team of data scientists collaborate with staff in the external organisation on a project that addresses a business need within that organisation. To date, it has run 80 successful projects with companies of all sizes, across a wide variety of domains. The talk will explain the systematic way NICD scopes and runs data science projects to ensure that they successfully deliver value to the external organisation. This will be  illustrated with a set of case studies. It will end with a checklist of the key points to consider when designing a project to successfully exploit data science and AI."
+  biography: "Paul Watson FREng FBCS CEng is Director of the UK's National Innovation Centre for Data, Professor of Computer Science at Newcastle University, and a Fellow of the Alan Turing Institute. He began his career at Manchester University before moving to industry to design parallel database servers. In 1995 he joined Newcastle University where his research and teaching has focussed on scalable data engineering. Professor Watson is a Fellow of the Royal Academy of Engineering, a Fellow of the British Computer Society, and a Chartered Engineer. He received the 2014 Microsoft Jim Gray eScience Award."
   # slides: 
