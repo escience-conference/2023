@@ -40,7 +40,7 @@ The extended abstract (up to 2 pages) should include the following sections:
  
 ## Key Dates
 
-- Tutorial Submissions Due: **Friday, May 26, 2023**
+- Tutorial Submissions Due: **<strike>Friday, May 26, 2023</strike> <span style="color: red">Monday, June 19, 2023</span>** (firm deadline)
 - Tutorial Acceptance: **Friday, June 30, 2023**
 - Tutorials at the Conference: **October 9-10, 2023**
  
