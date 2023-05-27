@@ -13,7 +13,7 @@ This year, the conference is promoting four additional key topics (tracks):
 
 The conference is soliciting two types of contributions:
 - **Full papers (10 pages including references)** presenting previously unpublished research achievements or eScience experiences and solutions
-- **Posters (2 pages)** showcasing early-stage results and innovations
+- **Posters (2 pages)** showcasing standalone research, innovations or early-stage results that are anticipated to develop into a full paper
 
 Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-column text using single-spaced 10-point font on 8.5×11-inch pages. Templates are available from [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html). 
 All submissions will be single-blind peer reviewed. Selected full papers will receive a slot for an oral presentation. Accepted posters will be presented during a poster reception. Accepted full papers and poster papers will be published in the conference proceedings. Rejected full papers can be re-submitted for a poster presentation. At least one author of each accepted paper or poster must register as an author at the full registration rate. Each author registration can be applied to only one accepted submission.
@@ -27,7 +27,9 @@ eScience 2023 will host the following awards, which will be announced at the con
 - Best Student Paper Award
 - Best Poster Award
 - Best Student Poster Award
-- Outstanding Early Career Contribution – this award is associated with poster submissions and short presentations of attendees in their early career phase (i.e., postdoctoral researchers and junior scientists).
+- Outstanding Early Career Contribution – this award is associated with poster submissions and short presentations of attendees in their **_early-career_** phase.
+
+**Early-career:** a post-doctoral researcher or junior scientists within 7 years of starting a permanent position who have not yet attained tenure. Junior scientists who consider themselves early career, but have exceeded the 7-year limit are still invited to apply. Applicants are required to submit their CV as part of the submission process. (link will be provided soon)
 
 ### Key Dates
 
