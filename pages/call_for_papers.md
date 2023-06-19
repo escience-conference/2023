@@ -33,7 +33,7 @@ eScience 2023 will host the following awards, which will be announced at the con
 
 ### Key Dates
 
-The important dates of the conference are as follows:
+The important dates of the conference are as follows (**All deadlines are AoE**):
 - Paper Submissions Due: **<strike>Friday, May 26, 2023</strike> <span style="color: red">Monday, June 19, 2023</span>** (firm deadline)
 - Notification of Paper Acceptance: **<strike>Friday, June 30, 2023</strike> <span style="color: red">Monday, July 10, 2023</span>**
 - Poster Submissions due: **Friday, July 14, 2023**
