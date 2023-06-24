@@ -43,6 +43,9 @@
 - name: Alberto Garcia
   institution: ICMAB-CSIC, Spain
 
+- name: Leyla Jael Garcia
+  institution: ZB MED Information Centre for Life Sciences, Germany
+
 - name: Sandra Gesing
   institution: University of Illinois System, USA
 
@@ -166,8 +169,8 @@
 - name: Renan Souza
   institution: Oak Ridge National Laboratory, USA
 
-- name: Nigel Stanger
-  institution: University of Otago, New Zealand
+# - name: Nigel Stanger
+#   institution: University of Otago, New Zealand
 
 - name: Achim Streit
   institution: Karlsruhe Institute of Technology, Germany
