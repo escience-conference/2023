@@ -16,13 +16,15 @@
 
 - type: Notification of Tutorial Acceptance
   date: Friday, June 30, 2023
+  extended: Monday, July 10, 2023
 
 - type: Notification of Paper Acceptance
   date: Friday, June 30, 2023
-  extended: Monday, July 10, 2023
+  extended: Wednesday, July 12, 2023
 
-- type: Poster Submissions
+- type: "Poster Submissions <span style='color: red'>(firm deadline - AoE)</span>"
   date: Friday, July 14, 2023
+  extended: Monday, July 17, 2023
 
 - type: Poster Notification
   date:  Monday, July 24, 2023
