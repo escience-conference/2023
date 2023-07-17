@@ -44,7 +44,7 @@ contents:
   meeting:
     registration: false
     venue: true
-    lodging: false
+    lodging: true
     thingstodo: false
     virtual: false
     quickstart: false
