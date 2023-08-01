@@ -1,0 +1,18 @@
+---
+layout: page
+title: "ADIOS: An adaptable and scalable I/O framework for storage, in situ data processing and wide-area data transfer"
+schedule: "October, 2023"
+abstract: "This tutorial provides a comprehensive introduction to building blocks of complex scientific workflows, including I/O, remote data access, and visualization. The tutorial features live demonstrations involving a realistic simulation, data analysis and visualization, which illustrate how to use these tools in a plug-and-play manner. By the end of the day, attendees will see a workflow composed of simulation, data analysis and data visualization and run in various configurations of file-based and in situ setups. The tutorial will demonstrate how the presented tools can be used transparently for streaming workflows vs. file-based workflows. Furthermore, these tools can be used over the WAN to allow a client running at one location to access remote data for analyzing and visualizing the data locally. The tutorial will introduce the participants to three main US Department of Energy Exascale Computing Project tools and technologies including 1) ADIOS which provides a publish/subscribe I/O abstraction unifying storage and staging I/O. 2) Fides a visualization data model and schema which allows ADIOS data to be easily ingested in a variety of visualization tools, and 3) ParaView a scientific visualization framework for both file-based post-processing as well as in situ visualization. These tools are integrated together to allow for both file-based and in-memory streaming analysis. Furthermore, the tutorial demonstrates a remote data access service, WANDS, that uses ADIOS to transfer UK Fusion experimental data to compute clusters at University of Cambridge."
+---
+
+**Length:** Half day
+
+**Prerequisite Knowledge:** 
+- Interest in and exposure to application storage I/O and/or scientific data visualization is beneficial.
+
+### Presenters:
+- [Norbert Podhorszki](mailto:pnorbert@ornl.gov), Oak Ridge National Laboratory
+- [Scott Klasky](mailto:klasky@ornl.gov), Oak Ridge National Laboratory
+- [Stefanie Reuter](mailto:sr2003@cam.ac.uk), University of Cambridge
+
+This tutorial provides a comprehensive introduction to building blocks of complex scientific workflows, including I/O, remote data access, and visualization. The tutorial features live demonstrations involving a realistic simulation, data analysis and visualization, which illustrate how to use these tools in a plug-and-play manner. By the end of the day, attendees will see a workflow composed of simulation, data analysis and data visualization and run in various configurations of file-based and in situ setups. The tutorial will demonstrate how the presented tools can be used transparently for streaming workflows vs. file-based workflows. Furthermore, these tools can be used over the WAN to allow a client running at one location to access remote data for analyzing and visualizing the data locally. The tutorial will introduce the participants to three main US Department of Energy Exascale Computing Project tools and technologies including 1) ADIOS which provides a publish/subscribe I/O abstraction unifying storage and staging I/O. 2) Fides a visualization data model and schema which allows ADIOS data to be easily ingested in a variety of visualization tools, and 3) ParaView a scientific visualization framework for both file-based post-processing as well as in situ visualization. These tools are integrated together to allow for both file-based and in-memory streaming analysis. Furthermore, the tutorial demonstrates a remote data access service, WANDS, that uses ADIOS to transfer UK Fusion experimental data to compute clusters at University of Cambridge.
