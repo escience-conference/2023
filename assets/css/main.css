@@ -4566,7 +4566,7 @@ a.list-group-item.active>.badge,
 
 .tabs {
 	position: relative;
-	background: #c42026;
+	background: var(--primary-accent);
 	border-top-left-radius: 0.5rem;
 	border-top-right-radius: 0.5rem;
 }
@@ -4596,8 +4596,8 @@ a.list-group-item.active>.badge,
 	line-height: 1.75rem;
 	text-align: center;
 	padding: 0 1.618em;
-	background: #c42026;
-	border: 0.125rem solid var(--primary-accent);
+	background: var(--primary-accent);
+	border: 0.125rem solid #A54F33;
 	border-top-left-radius: 0.5rem;
 	border-top-right-radius: 0.5rem;
 	color: #fff;
