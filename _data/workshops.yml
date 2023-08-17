@@ -5,14 +5,14 @@
             This workshop seeks to explore ideas and experiences on what kinds of infrastructure developments can improve upon the state of the art. Explorations of component packaging via containers and virtual machines, automation scripting, deployment,  portability builds, and system support for these and other relevant activities are key infrastructure.
   url: https://sites.google.com/vols.utk.edu/rewords23/home
 
-- name: 'Software Engineering for eScience 2023 (SE4eScience23)'
-  abstract: >
-            The goal of this workshop is to provide a unique venue for the presentation of results and 
-            to facilitate interaction between software engineers and computational scientists, including 
-            those from the humanities, social sciences and engineering. The workshop seeks contributions 
-            from members of those communities that describe perspectives, research outcomes, and lessons 
-            learned (positive or negative) from the development of eScience software.
-  url: https://se4science.org/workshops/se4escience23/index.htm
+# - name: 'Software Engineering for eScience 2023 (SE4eScience23)'
+#   abstract: >
+#             The goal of this workshop is to provide a unique venue for the presentation of results and 
+#             to facilitate interaction between software engineers and computational scientists, including 
+#             those from the humanities, social sciences and engineering. The workshop seeks contributions 
+#             from members of those communities that describe perspectives, research outcomes, and lessons 
+#             learned (positive or negative) from the development of eScience software.
+#   url: https://se4science.org/workshops/se4escience23/index.htm
 
 - name: 'Research Software Engineers in eScience: Sustainable RSE Ecosystems within eScience (RSE-eScience-2023)'
   abstract: >
