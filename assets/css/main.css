@@ -4721,3 +4721,8 @@ a.list-group-item.active>.badge,
 .stage-conference {
 	background-color: #f5e2e4;
 }
+
+.papers {
+	font-weight: normal;
+	padding-left: 1em;
+}
