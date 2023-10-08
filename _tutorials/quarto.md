@@ -11,6 +11,8 @@ abstract: "The demand for scientific staff to prepare reports for governmental, 
 - Suitable to novice to advanced R users, no experience with RStudio required 
 - Familiarity with text markdown recommended
 
+**Tutorial Website:** [https://annesbe.github.io/quartaki_ieee/](https://annesbe.github.io/quartaki_ieee/)
+
 ### Presenters:
 - [Athanasia Monika Mowinckel](mailto:a.m.mowinckel@psykologi.uio.no), University of Oslo
 - [Anne Schad Bergsaker](mailto:a.s.bergsaker@usit.uio.no), University of Oslo
