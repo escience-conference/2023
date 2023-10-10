@@ -16,7 +16,15 @@
   institution: University of Chicago and Argonne National Laboratory
   photo: foster.jpg
   chair: Rosa Filgueira (University of St Andrews)
-  abstract: "We are on the verge of a global communications revolution based on ubiquitous high-speed optical, 5G, 6G, and free-space optics technologies. The resulting communications fabric can enable new ultra-collaborative research modalities that pool sensors, data, and computation with unprecedented flexibility and focus. But realizing these new modalities requires that we overcome the friction that currently impedes actions that traverse institutional boundaries. The solution, I argue, is new global science services to mediate between user intent and infrastructure realities. I describe our experiences building and operating such services, and present examples of their application and use."
+  abstract: "
+      The integration of embodied agents in the scientific domain presents unprecedented opportunities and challenges. In this talk I delve into the transformative potential of these agents as next-generation scientific assistants. I begin by defining embodied agents — computational entities that interact with the world through physical bodies or representations, often leveraging sensorimotor experiences to learn and act. I then explore three primary facets of their integration:
+      <ul>
+      <li>Cognitive Collaboration: How embodied agents, with their machine learning and data-processing capabilities, complement the cognitive processes of human scientists, offering real-time data analysis, hypothesis generation, and even experimental design suggestions.</li>
+      <li>Physical Interaction: The unique advantage of embodied agents lies in their ability to physically engage with the scientific environment, be it a laboratory or field setting. I will highlight applications ranging from precision tasks in bio-labs and advanced simulations on supercomputers.</li>
+      <li>Ethical and Philosophical Implications: As with all technological advancements, the rise of embodied agents introduces pertinent questions about their ethical use, the preservation of human intuition in science, and the possible redefinition of scientific discovery in an age where machines can potentially theorize and validate.</li>
+      </ul>
+      Concluding, I invite participants to envision a future where human scientists and embodied agents collaborate seamlessly, fostering an era of accelerated scientific discoveries and broader horizons of understanding.
+  "
   biography: "Ian Foster is the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago, and Senior Scientist and Distinguished Fellow, and director of the Data Science and Learning Division, at Argonne National Laboratory. He has a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research is in distributed, parallel, and data-intensive computing technologies, and their applications to scientific problems. He is a fellow of the AAAS, ACM, BCS, and IEEE, and has received the BCS Lovelace Medal; IEEE Babbage, Goode, and Kanai awards; and ACM/IEEE Ken Kennedy award."
   # slides: 
 
